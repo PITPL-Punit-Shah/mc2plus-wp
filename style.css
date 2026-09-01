@@ -1,34 +1,10 @@
 /*
-Theme Name: global-processing
-Theme URI: https://globalmerchantservicesny.com/
-Author: global-processing
-Description: Bootstrap 5 theme for X2Go
+Theme Name: mc2plus
+Theme URI: https://mc2plus.in/
+Author: MC2 FOUNDATION
+Description: Bootstrap 5 theme for mc2plus
 Version: 1.0.0
 Requires at least: 6.0
 License: Proprietary
-Text Domain: global-processing
+Text Domain: mc2plus
 */
-
-.rounded-circle {
-    width: 68px !important;
-    height: 68px !important;
-    min-width: 68px !important;
-    min-height: 68px !important;
-    max-width: 68px !important;
-    max-height: 68px !important;
-
-    padding: 0 !important;
-    margin: 0 !important;
-
-    border-radius: 50% !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-
-    flex: 0 0 68px !important;
-    box-sizing: border-box !important;
-}
-
-.rounded-circle i {
-    color: #fff !important;
-}
