@@ -1,0 +1,4176 @@
+<?php
+/**
+ * Template Name: Portfolio Page
+ */
+
+get_header(); ?>
+        <section class="hero" data-astro-cid-hfwuo76p>
+            <div class="orbit" aria-hidden="true" data-astro-cid-hfwuo76p><svg width="1920" height="1086"
+                    viewBox="0 0 1920 1086" fill="none" class="curves" data-astro-cid-hfwuo76p="true">
+                    <path
+                        d="M337.580 1085.470 C270.910 735.060 421.580 364.270 743.490 166.360 C1159.670 -89.510 1704.481 40.450 1960.351 456.630"
+                        stroke="#F37D2C" stroke-miterlimit="10" />
+                    <path
+                        d="M1920.500 319.710 C1746.860 319.710 1606.100 460.470 1606.100 634.110 C1606.100 807.750 1746.860 948.510 1920.500 948.510"
+                        stroke="#F37D2C" stroke-miterlimit="10" />
+                    <path
+                        d="M79.65 -124.95C79.65 116.82 275.64 312.81 517.41 312.81C759.18 312.81 955.18 116.82 955.18 -124.95"
+                        stroke="#F37D2C" stroke-miterlimit="10" />
+                </svg><svg width="97" height="81" viewBox="0 0 97 81" fill="none" class="spark spark-a"
+                    data-astro-cid-hfwuo76p="true">
+                    <path
+                        d="M10.98 80.46L43.13 53.96C48.08 49.88 53.7 46.68 59.73 44.49L96.16 31.32H77.13C71.27 31.32 68 24.55 71.65 19.96L87.53 0L54.31 24.71C48.03 29.38 40.85 32.68 33.22 34.41L0 41.92L21.67 45.64C26.6 46.49 29.08 52.09 26.39 56.31L10.97 80.46H10.98Z"
+                        fill="#F37D2C" />
+                </svg><svg width="64" height="52" viewBox="0 0 64 52" fill="none" class="spark spark-b"
+                    data-astro-cid-hfwuo76p="true">
+                    <path
+                        d="M54.5701 51.24L44.0901 35C42.0301 31.81 43.5801 27.53 47.2001 26.39L63.26 21.35L38.05 20.35C34.76 20.22 31.6 19.03 29.04 16.96L8.08008 0L19.9601 16.35C22.0701 19.25 21.04 23.36 17.8 24.91L0 33.49L24.8501 31.01C29.1701 30.58 33.46 32 36.67 34.92L54.5601 51.23L54.5701 51.24Z"
+                        fill="#F37D2C" />
+                </svg></div>
+            <div class="hero-inner reveal" data-astro-cid-hfwuo76p>
+                <p class="eyebrow" data-astro-cid-hfwuo76p>PORTFOLIO</p>
+                <div class="underline" aria-hidden="true" data-astro-cid-hfwuo76p></div>
+                <h1 data-astro-cid-hfwuo76p><span class="line reveal-line" data-astro-cid-hfwuo76p><span
+                            class="reveal-line-box" data-astro-cid-hfwuo76p><span class="reveal-line-text"
+                                data-astro-cid-hfwuo76p>The builders</span><svg width="138" height="146"
+                                viewBox="0 0 138 146" fill="none" class="reveal-star" aria-hidden="true"
+                                data-astro-cid-hfwuo76p="true">
+                                <path
+                                    d="M114.544 61.331 L137.512 60.621 L94.388 74.263 C82.894 77.898 74.078 87.197 71.053 98.887 L58.985 145.497 L59.086 119.387 C59.162 99.530 42.783 83.557 22.968 84.166 L0.000 84.876 L43.124 71.235 C54.618 67.599 63.434 58.300 66.459 46.610 L78.527 0.000 L78.427 26.110 C78.351 45.968 94.730 61.940 114.544 61.331 Z"
+                                    fill="#1E1E3C" />
+                            </svg></span></span><span class="line reveal-line" data-astro-cid-hfwuo76p><span
+                            class="reveal-line-box" data-astro-cid-hfwuo76p><span class="reveal-line-text"
+                                data-astro-cid-hfwuo76p>we&rsquo;re <span class="accent"
+                                    data-astro-cid-hfwuo76p>backing</span>.</span><svg width="138" height="146"
+                                viewBox="0 0 138 146" fill="none" class="reveal-star" aria-hidden="true"
+                                data-astro-cid-hfwuo76p="true">
+                                <path
+                                    d="M114.544 61.331 L137.512 60.621 L94.388 74.263 C82.894 77.898 74.078 87.197 71.053 98.887 L58.985 145.497 L59.086 119.387 C59.162 99.530 42.783 83.557 22.968 84.166 L0.000 84.876 L43.124 71.235 C54.618 67.599 63.434 58.300 66.459 46.610 L78.527 0.000 L78.427 26.110 C78.351 45.968 94.730 61.940 114.544 61.331 Z"
+                                    fill="#1E1E3C" />
+                            </svg></span></span></h1>
+                <p class="lede reveal-rise reveal-rise--after-2-lines" data-astro-cid-hfwuo76p>Our individual investors
+                    have been backing energy innovations for years. Now, we are all coming together to do it.</p>
+                <div class="hero-bottom" data-astro-cid-hfwuo76p>
+                    <div class="info-bar reveal-rise" data-astro-cid-hfwuo76p>
+                        <div class="info-badge" aria-hidden="true" data-astro-cid-hfwuo76p>i</div>
+                        <p class="info-text" data-astro-cid-hfwuo76p>Ventures backed across the energy majors. A
+                            selection of companies incubated through the energy majors&rsquo; programmes.</p>
+                    </div><button type="button" class="scroll" aria-label="Scroll to next section"
+                        data-astro-cid-hfwuo76p><svg width="36" height="21" viewBox="0 0 36 21" fill="none"
+                            aria-hidden="true" data-astro-cid-hfwuo76p="true">
+                            <g id="Desktop" clip-path="url(#clip0_0_1)">
+                                <g id="home test 1">
+                                    <g id="Group">
+                                        <path id="Vector"
+                                            d="M35.55 0.0100098C30.43 7.53001 24.2 14.21 17.77 20.61L16.36 19.19C10.44 13.21 4.74 6.98 0 0C6.98 4.74 13.21 10.44 19.19 16.36H16.36C22.34 10.45 28.58 4.75 35.55 0V0.0100098Z"
+                                            fill="#1E1E3C" />
+                                    </g>
+                                </g>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_0_1">
+                                    <rect width="1920" height="4496" fill="white"
+                                        transform="translate(-942.22 -963.55)" />
+                                </clipPath>
+                            </defs>
+                        </svg></button>
+                </div>
+            </div>
+        </section>
+        <section class="explorer" aria-label="Venture explorer" data-astro-cid-lfsqn5tl>
+            <div class="container" data-astro-cid-lfsqn5tl>
+                <div class="filters" data-astro-cid-lfsqn5tl>
+                    <div class="filter-group" data-astro-cid-lfsqn5tl>
+                        <p class="filter-label" data-astro-cid-lfsqn5tl>BACKED BY</p>
+                        <div class="chip-row" role="group" aria-label="Filter by backer" data-astro-cid-lfsqn5tl><button
+                                type="button" class="chip" data-filter="backer" data-value="All" aria-pressed="true"
+                                data-astro-cid-lfsqn5tl>All <span class="count"
+                                    data-astro-cid-lfsqn5tl>165</span></button><button type="button" class="chip"
+                                data-filter="backer" data-value="GAIL" aria-pressed="false" data-astro-cid-lfsqn5tl>GAIL
+                                <span class="count" data-astro-cid-lfsqn5tl>39</span></button><button type="button"
+                                class="chip" data-filter="backer" data-value="BPCL" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>BPCL <span class="count"
+                                    data-astro-cid-lfsqn5tl>30</span></button><button type="button" class="chip"
+                                data-filter="backer" data-value="HPCL" aria-pressed="false" data-astro-cid-lfsqn5tl>HPCL
+                                <span class="count" data-astro-cid-lfsqn5tl>29</span></button><button type="button"
+                                class="chip" data-filter="backer" data-value="ONGC" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>ONGC <span class="count"
+                                    data-astro-cid-lfsqn5tl>27</span></button><button type="button" class="chip"
+                                data-filter="backer" data-value="OIL" aria-pressed="false" data-astro-cid-lfsqn5tl>OIL
+                                <span class="count" data-astro-cid-lfsqn5tl>25</span></button><button type="button"
+                                class="chip" data-filter="backer" data-value="IOCL" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>IOCL <span class="count"
+                                    data-astro-cid-lfsqn5tl>15</span></button></div>
+                    </div>
+                    <div class="filter-group filter-group--sector" data-astro-cid-lfsqn5tl>
+                        <p class="filter-label" data-astro-cid-lfsqn5tl>SECTOR</p>
+                        <div class="chip-row" role="group" aria-label="Filter by sector" data-astro-cid-lfsqn5tl><button
+                                type="button" class="chip" data-filter="sector" data-value="All" aria-pressed="true"
+                                data-astro-cid-lfsqn5tl>All <span class="count"
+                                    data-astro-cid-lfsqn5tl>165</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Renewable &amp; Clean Energy" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>Renewable &amp; Clean Energy <span class="count"
+                                    data-astro-cid-lfsqn5tl>33</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Industrial Robotics &amp; Automation"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Industrial Robotics &amp; Automation <span
+                                    class="count" data-astro-cid-lfsqn5tl>26</span></button><button type="button"
+                                class="chip" data-filter="sector"
+                                data-value="Environment, Sustainability &amp; Waste Management" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>Environment, Sustainability &amp; Waste Management <span
+                                    class="count" data-astro-cid-lfsqn5tl>18</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="Oil &amp; Gas Operations"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Oil &amp; Gas Operations <span
+                                    class="count" data-astro-cid-lfsqn5tl>16</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="Healthcare &amp; MedTech"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Healthcare &amp; MedTech <span
+                                    class="count" data-astro-cid-lfsqn5tl>13</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="Battery &amp; Energy Storage"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Battery &amp; Energy Storage <span
+                                    class="count" data-astro-cid-lfsqn5tl>10</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="Data Analytics, AI &amp; IoT"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Data Analytics, AI &amp; IoT <span
+                                    class="count" data-astro-cid-lfsqn5tl>9</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="Aerospace &amp; Defence"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Aerospace &amp; Defence <span class="count"
+                                    data-astro-cid-lfsqn5tl>9</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Electric Mobility &amp; EV" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>Electric Mobility &amp; EV <span class="count"
+                                    data-astro-cid-lfsqn5tl>8</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Logistics &amp; Supply Chain" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>Logistics &amp; Supply Chain <span class="count"
+                                    data-astro-cid-lfsqn5tl>7</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Retail, E-Commerce &amp; Consumer Tech"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Retail, E-Commerce &amp; Consumer Tech
+                                <span class="count" data-astro-cid-lfsqn5tl>5</span></button><button type="button"
+                                class="chip" data-filter="sector" data-value="CSR &amp; Social Impact"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>CSR &amp; Social Impact <span class="count"
+                                    data-astro-cid-lfsqn5tl>3</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="AgriTech" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>AgriTech <span class="count"
+                                    data-astro-cid-lfsqn5tl>3</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="FinTech" aria-pressed="false"
+                                data-astro-cid-lfsqn5tl>FinTech <span class="count"
+                                    data-astro-cid-lfsqn5tl>3</span></button><button type="button" class="chip"
+                                data-filter="sector" data-value="Automotive Technology &amp; Components"
+                                aria-pressed="false" data-astro-cid-lfsqn5tl>Automotive Technology &amp; Components
+                                <span class="count" data-astro-cid-lfsqn5tl>2</span></button></div><select
+                            class="sector-select" aria-label="Filter by sector" data-filter-select="sector"
+                            data-astro-cid-lfsqn5tl>
+                            <option value="All" data-astro-cid-lfsqn5tl>All (165)</option>
+                            <option value="Renewable &amp; Clean Energy" data-astro-cid-lfsqn5tl>Renewable &amp; Clean
+                                Energy (33)</option>
+                            <option value="Industrial Robotics &amp; Automation" data-astro-cid-lfsqn5tl>Industrial
+                                Robotics &amp; Automation (26)</option>
+                            <option value="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                                Environment, Sustainability &amp; Waste Management (18)</option>
+                            <option value="Oil &amp; Gas Operations" data-astro-cid-lfsqn5tl>Oil &amp; Gas Operations
+                                (16)</option>
+                            <option value="Healthcare &amp; MedTech" data-astro-cid-lfsqn5tl>Healthcare &amp; MedTech
+                                (13)</option>
+                            <option value="Battery &amp; Energy Storage" data-astro-cid-lfsqn5tl>Battery &amp; Energy
+                                Storage (10)</option>
+                            <option value="Data Analytics, AI &amp; IoT" data-astro-cid-lfsqn5tl>Data Analytics, AI
+                                &amp; IoT (9)</option>
+                            <option value="Aerospace &amp; Defence" data-astro-cid-lfsqn5tl>Aerospace &amp; Defence (9)
+                            </option>
+                            <option value="Electric Mobility &amp; EV" data-astro-cid-lfsqn5tl>Electric Mobility &amp;
+                                EV (8)</option>
+                            <option value="Logistics &amp; Supply Chain" data-astro-cid-lfsqn5tl>Logistics &amp; Supply
+                                Chain (7)</option>
+                            <option value="Retail, E-Commerce &amp; Consumer Tech" data-astro-cid-lfsqn5tl>Retail,
+                                E-Commerce &amp; Consumer Tech (5)</option>
+                            <option value="CSR &amp; Social Impact" data-astro-cid-lfsqn5tl>CSR &amp; Social Impact (3)
+                            </option>
+                            <option value="AgriTech" data-astro-cid-lfsqn5tl>AgriTech (3)</option>
+                            <option value="FinTech" data-astro-cid-lfsqn5tl>FinTech (3)</option>
+                            <option value="Automotive Technology &amp; Components" data-astro-cid-lfsqn5tl>Automotive
+                                Technology &amp; Components (2)</option>
+                        </select>
+                    </div>
+                </div>
+                <p class="results-count" aria-live="polite" data-astro-cid-lfsqn5tl>Showing all 165 ventures</p>
+                <div class="rows" data-astro-cid-lfsqn5tl>
+                    <article class="row" data-backer="HPCL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Constems AI Systems Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Last year recorded Rs. 4 Cr revenue,
+                                    expanding business in US and Philippines, ITC, P&amp;G are major clients.</p><a
+                                    href="https://constems-ai.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Digas Pvt Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The product got certified by LERC,
+                                    Bangalore.</p><a href="https://digas.co.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Unesar Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Vadodara-based clean-energy startup behind
+                                    the Solar Stove, a disruptive solar cooking solution aimed at replacing LPG in
+                                    Indian kitchens.</p><a href="https://in.linkedin.com/company/unesar"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Simulanis Solutions Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Series A3 funding raised from ONGC (Rs 2.0
+                                    Crore) in Dec’21.</p><a href="https://www.simulanis.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Tranzmeo IT Solutions Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup has been selected in the Shell
+                                    E4 Cohort program and raised funding at a valuation 70 times that of the HPCL round.
+                                </p><a href="https://tranzmeo.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>EcoOpus Agriventures Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup is currently focusing on baggase
+                                    marketing and is expected to deliver an order amount of Rs 40 lakh to a sugar
+                                    factory .</p><a href="https://www.ecoopus.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Hybrid Super Tech Engg Pvt Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Executed pilot bitumen-handling trial
+                                    projects at an HPCL bitumen storage facility.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Automotive Technology &amp; Components"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Tjycheejuno Speciality Tyres Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Automotive Technology &amp; Components</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup is in the process to get its
+                                    Faridabad plant products certified from BIS and commencing commercial production.
+                                </p><a href="https://www.tjtyres.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Red Room Technology Pvt Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>In its Series A round, The Startup raised a
+                                    funding of Rs 8 Crores from M/s Lets Venture in May’21 and Rs 9 Crores more in April
+                                    2022.</p><a href="https://sanfe.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Clairviz Technology Systems Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup is working/enhancing their Asset
+                                    Tracker product which is RFID &amp; Barcode based product.</p><a
+                                    href="https://clairviz.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>RMRS Electric Vehicles Pvt Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The Start-up wants to deploy 1000
+                                    e-rickshaws with swappable batteries in Delhi - NCR. 10 e-autos have been booked by
+                                    HPCL LPG Dealers in Delhi NCR.</p><a href="http://rryde.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Magenta EV Solutions Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Series A funding raised from NRI Dr Kiran
+                                    Patel (Rs 90 Crore) in 2021.</p><a href="https://magentamobility.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Rosefield Energy Tech Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup’s GPO model has gained good
+                                    traction by connecting suppliers with customers in the business of Lubricant
+                                    additives, raw material for additives, other chemicals and specialties, packaging...
+                                </p><a href="http://rosefieldb2b.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Aadyam Infotech Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Deployed a smart delivery system app (for
+                                    delivery of domestic LPG cylinders) for streamlining deliveries to end customers
+                                    from the Distributors.</p><a href="http://aadyaminfotech.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Voltrez Tech Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup is developing an Ultra-safe
+                                    Li-ion battery.</p><a href="https://voltreztech.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Retail, E-Commerce &amp; Consumer Tech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Chkfake Brand Protection Solutions Pvt
+                                    Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Retail, E-Commerce &amp; Consumer Tech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Chkfake has developed an app to check if a
+                                    product is counterfeit/pilfered.</p><a href="https://chkfake.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Evlogia Eco Care Pvt Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The Startup has raised a fund of Rs 50 Lacs
+                                    in June &#39;22 from Ramaiyah Capital.</p><a href="https://evlogiaeco.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Innoctive Technologies Pvt Ltd (CargoFL)
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Last FY, the startup has been profitable
+                                    with Rs 4.50 Cr revenue and Rs 12 lakhs net profit after tax.</p><a
+                                    href="https://innoctive.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>HPS Lab Designs Private Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The Startup has raised Rs 7.5 Crores from
+                                    M/s Refex in June&#39;22.</p><a href="http://hpslabdesigns.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>ASN Fuels Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup&#39;s technology is proven at a
+                                    lab scale.</p><a href="https://asnfuels.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Esmito Solutions Pvt. Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Post validation stage, the startup has
+                                    raised Rs 10 Cr from external investor and aggressively expanding to capture the
+                                    Battery Swapping business in Bengaluru, Mumbai.</p><a href="https://esmito.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Autogrid Mobility Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Autogrid Mobility has also won TIDE 2.0
+                                    Grant of Rs. 35 lakhs from MEITY and Hackathon organized by MoRTH for designing
+                                    barrier free toll collection system.</p><a href="https://www.autogridmobility.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Retail, E-Commerce &amp; Consumer Tech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Rodeo Digital</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Retail, E-Commerce &amp; Consumer Tech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>The startup has partnered with Equitas Bank
+                                    to provide digital/e-commerce solutions to the current account holders of the bank
+                                    such as grocery, hardware, and restaurant business categories.</p><a
+                                    href="https://rodeodigital.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Respirer Living Sciences Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bengaluru-based climate-tech startup
+                                    building atmos, a scientifically validated air-quality and methane-monitoring sensor
+                                    network deployed across 25+ Indian cities.</p><a href="https://respirer.in/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Kshumat Energy Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Kshumat Energy has reached a capacity of
+                                    manufacturing 20KLPD Biodiesel.</p><a href="https://kshumatenergy.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Petrobot Technologies Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Jaipur-based robotics startup behind the
+                                    ITIS Rover and MagRover, ATEX/PESO-certified robots for in-service, shutdown-free
+                                    inspection of storage tanks and pipelines.</p><a href="https://petrobot.co.in/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Hanu AI Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Delhi-based AI startup building RoadAthena,
+                                    an AI- and GIS-based Road Asset Management System that has surveyed over 150,000
+                                    lane-kilometres of Indian roads.</p><a href="https://hanuai.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Saltech Design Labs</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Gujarat-based waste-to-value startup with
+                                    patented recycling technology that turns single-use plastic and construction &amp;
+                                    demolition waste into sustainable building materials.</p><a
+                                    href="https://saltech.co.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="HPCL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by HPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Maraal Aerospace</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Noida-based, IIT Kanpur-incubated deep-tech
+                                    startup building India&#39;s first indigenously designed solar-powered,
+                                    long-endurance fixed-wing UAVs for defence and civil ISR missions.</p><a
+                                    href="https://maraalaerospace.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Detect Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>AI-based pipeline inspection, drones,
+                                    refinery performance optimisation.</p><a href="https://www.detecttechnologies.com"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Lynkit Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Route optimizer &amp; inventory optimizer
+                                    for micro distributors.</p><a href="https://www.lynkit.in" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>UptimeAI Tech Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Improvements in energy efficiency and asset
+                                    reliability for BPCL.</p><a href="https://www.uptimeai.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>SiSoC Semiconductor Technologies Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Smart LPG cylinder system – pay-as-you-use
+                                    model.</p><a href="https://www.sisocsemi.com" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>IROV Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Battery-powered underwater drones for
+                                    inspection.</p><a href="https://www.eyerov.com" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Genrobotic Innovations Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Development of robot for cleaning operations
+                                    in manholes for BPCL.</p><a href="https://www.genrobotics.org" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Aerostrovilos Energy Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>100kW fuel-flexible gas turbine for off-grid
+                                    power.</p><a href="https://www.aerostrovilos.com" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Airpix Devices</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Drone-based photographic data capture for
+                                    oil industry assets.</p><a href="https://www.airpix.in" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="CSR &amp; Social Impact"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Anthill Creations Foundation</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>CSR &amp; Social Impact</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Building inclusive, interactive playscapes
+                                    with communities.</p><a href="https://www.anthillcreations.org" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Breathe Applied Sciences Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>CO₂ to Methanol/Dimethyl Ether conversion
+                                    technology.</p><a href="https://www.breathesciences.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="CSR &amp; Social Impact"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Mantra Social Services Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>CSR &amp; Social Impact</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Social venture working with 47 Government
+                                    schools in 4 clusters; CSR initiative.</p><a href="https://www.mantra4change.com"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>MedTel Healthcare Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Telemedicine solution providing healthcare
+                                    at remote locations; CSR initiative.</p><a href="https://www.medtel.in"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="AgriTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>NAVA Design &amp; Innovation Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>AgriTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Automatic Neera harvesting device requiring
+                                    minimal human intervention.</p><a href="https://www.navainnovation.com"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Param People Infotech Solutions Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Data-driven connected platform for highway
+                                    wayside amenities.</p><a href="https://www.highwaydelite.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Planys Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Submersible robots for inspections
+                                    (refineries, offshore, dams).</p><a href="https://www.planystech.com"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Prantae Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Affordable device enabling urine analysis on
+                                    smartphone as self-health monitoring.</p><a href="https://www.prantae.solutions"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="AgriTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Resnova Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>AgriTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Custom built dairy management system for
+                                    small dairy farms.</p><a href="https://www.resnova.in" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Swadha Energies Pvt. Ltd. (ZedBee
+                                    Technologies)</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Development of motor drives for solar pumps
+                                    saving electricity.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="CSR &amp; Social Impact"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Tatvagyan Thinkzone Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>CSR &amp; Social Impact</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Standardised primary education programmes –
+                                    CSR.</p><a href="https://www.thinkzone.in" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Waarey Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Microbial solutions for waste water
+                                    nitrification/denitrification.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Waferchips Techno Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Wearable ECG device with AI algorithm
+                                    transmitting heart signals to mobile phone.</p><a
+                                    href="https://www.waferchips.co.in" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>ZooFresh Foods Pvt. Ltd. (FreshR)</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Tech-enabled fresh meat retail with rural
+                                    distribution.</p><a href="https://www.freshr.co.in" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Adit Bioscience Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Affordable assisted reproductive technology
+                                    for cattle.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>CyCa OncoSolutions Pvt. Ltd. (CyGenia)</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Nano-drug delivery to reduce cancer drug
+                                    side effects.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Lorven Biologics Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Snakebite detection kit and novel anti-venom
+                                    with herbal antioxidants.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Maximl Labs Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Syncops platform providing real-time
+                                    actionable data from field for BPCL operations.</p><a href="https://www.maximl.com"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Maiestas Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Development of low-cost high-power LED
+                                    lighting solutions.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Sastra Robotics India Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Robotic system controlled by human
+                                    brain/muscle signals.</p><a href="https://www.sastrarobotics.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Retail, E-Commerce &amp; Consumer Tech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Litmus World Marketing Technologies Pvt.
+                                    Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Retail, E-Commerce &amp; Consumer Tech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Realtime customer feedback at BPCL fuel
+                                    stations.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="BPCL" data-sector="Retail, E-Commerce &amp; Consumer Tech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by BPCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Sociograph Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Retail, E-Commerce &amp; Consumer Tech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Creating BPCL Metaverse for customers to
+                                    interact with BPCL UFill initiative.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Rhomu Technologies Pvt Ltd, Chennai</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Rhomu Technologies Pvt Ltd, Chennai is a
+                                    IOCL portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://ie.linkedin.com/company/rhomu-limited" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Proburgeon Pvt Ltd, Pune</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Proburgeon Pvt Ltd, Pune is a IOCL portfolio
+                                    startup working in Oil &amp; Gas Operations.</p><a href="https://www.flowrhex.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Cellark Powertech Pvt Ltd, Bhubaneswar</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Cellark Powertech Pvt Ltd, Bhubaneswar is a
+                                    IOCL portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://cellark.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>iSpock Technologies Pvt Ltd, Roorkee</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>iSpock Technologies Pvt Ltd, Roorkee is a
+                                    IOCL portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://www.linkedin.com/company/ispock" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Algo8 AI Pvt Ltd, Noida</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Algo8 AI Pvt Ltd, Noida is a IOCL portfolio
+                                    startup working in data analytics, ai &amp; iot.</p><a href="https://algo8.ai/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Genrobotics Oil &amp; Gas Pvt Ltd, Kerala
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Genrobotics Oil &amp; Gas Pvt Ltd, Kerala is
+                                    a IOCL portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://oilandgas.genrobotics.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Greengine Environmental Technologies Pvt
+                                    Ltd, Kanpur</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Greengine Environmental Technologies Pvt
+                                    Ltd, Kanpur is a IOCL portfolio startup working in renewable &amp; clean energy.</p>
+                                <a href="https://www.greengine.co.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Urjahub (OPC) Pvt Ltd, Faridabad</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Urjahub (OPC) Pvt Ltd, Faridabad is a IOCL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.urjahub.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Edhaa Innovations Pvt Ltd, Maharastra</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Edhaa Innovations Pvt Ltd, Maharastra is a
+                                    IOCL portfolio startup working in healthcare &amp; medtech.</p><a
+                                    href="https://www.edhaainnovations.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>World Impact Creation Pvt. Ltd., Cuttack
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>World Impact Creation Pvt. Ltd., Cuttack is
+                                    a IOCL portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://in.linkedin.com/in/abhishek-mohapatra-86b01a370" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Aryo GreenTech, Uttar Pradesh</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Aryo GreenTech, Uttar Pradesh is a IOCL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://aryogreentech.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Bharat Flow Analytics Pvt. Ltd., Noida</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bharat Flow Analytics Pvt. Ltd., Noida is a
+                                    IOCL portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://www.bharatflow.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Virayaa Green Energy Systems Pvt Ltd.,
+                                    Hyderabad</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Virayaa Green Energy Systems Pvt Ltd.,
+                                    Hyderabad is a IOCL portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.vgesystems.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Perovskite Innovation Pvt Ltd., Roorkee
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Perovskite Innovation Pvt Ltd., Roorkee is a
+                                    IOCL portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.perovskiteinnovation.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="IOCL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by IOCL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Bariflo Cybernetics Pvt Ltd, Bhubaneswar
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bariflo Cybernetics Pvt Ltd, Bhubaneswar is
+                                    a IOCL portfolio startup working in environment, sustainability &amp; waste
+                                    management.</p><a href="https://www.bc-pl.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Planys Technologies Pvt. Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Planys Technologies Pvt. Ltd is a ONGC
+                                    portfolio startup working in industrial robotics &amp; automation.</p><a
+                                    href="https://www.planystech.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>String Bio Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bengaluru-based biomanufacturing company
+                                    whose String Integrated Methane Platform (SIMP) converts methane into protein
+                                    ingredients for animal nutrition, agriculture and other sectors.</p><a
+                                    href="https://www.stringbio.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Chakr Innovation Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bengaluru-based cleantech startup behind the
+                                    Chakr Shield, India&#39;s first CPCB type-approved retrofit device that captures
+                                    particulate emissions from diesel generators and turns them into ink.</p><a
+                                    href="https://chakr.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Sagar Defence Engineering Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Mumbai-based defence-tech startup building
+                                    unmanned marine surface vehicles, UAVs and autonomous control systems for the Indian
+                                    Navy and maritime industry.</p><a href="https://www.sagardefence.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Logic Ladder Technologies Pvt. Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Gurugram-based climate-tech SaaS company
+                                    behind The Sustainability Cloud, an enterprise platform for carbon accounting, ESG
+                                    reporting and CBAM compliance.</p><a
+                                    href="https://www.thesustainabilitycloud.com/logicladder/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Sparkyo Technology Private Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bengaluru-based industrial IoT company
+                                    (brand: Syook) providing a no-code Real-Time Location System for asset and worker
+                                    tracking, trusted by ONGC, Unilever and Indian Railways.</p><a
+                                    href="https://www.syook.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Constems AI Systems Private Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Constems AI Systems Private Ltd is a ONGC
+                                    portfolio startup working in data analytics, ai &amp; iot.</p><a
+                                    href="https://constems-ai.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>VDT pipeline Integrity services Pvt Ltd
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>VDT pipeline Integrity services Pvt Ltd is a
+                                    ONGC portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://www.linkedin.com/company/vdtintegritysolutions/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>CYRRUP Solutions Pvt. Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Hyderabad-based fleet-tech startup behind
+                                    Diesel Eye, a fully indigenous IoT device that detects and curbs diesel theft in
+                                    commercial vehicle fleets.</p><a href="https://www.cyrrup.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Pepfuels Technologies Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Delhi-based on-demand fuel startup
+                                    delivering diesel and petrol to industrial and commercial customers via an
+                                    IoT-enabled mobile dispensing platform.</p><a href="https://pepfuels.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Kshumat Energy Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Kshumat Energy Pvt Ltd is a ONGC portfolio
+                                    startup working in renewable &amp; clean energy.</p><a
+                                    href="https://kshumatenergy.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Simulanis Solutions Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Deeptech Online safety and plant training
+                                    modules.</p><a href="https://www.simulanis.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Aavritti Technologies Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Chennai-based, IIT Madras-incubated startup
+                                    building ground-penetrating radar and robotic platforms (RUDI, MT100) to detect and
+                                    map buried utilities and cables.</p><a href="https://aavrtti.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>StrautX Technologies LLP</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Fire-safety equipment startup manufacturing
+                                    an unmanned robotic firefighting vehicle for hazardous industrial fire response.</p>
+                                <a href="https://strautx.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Blujay Robotics Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Oilfield equipment startup manufacturing
+                                    downhole tools and equipment for well construction, completion and intervention.</p>
+                                <a href="https://www.blujayrobotics.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>WellRx Technologies Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Ahmedabad-based robotics startup whose PBot
+                                    range of autonomous robots cleans solar PV panels without water, recovering lost
+                                    energy output at large-scale solar plants.</p><a href="https://www.wellrxtech.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Photom Technologies Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Vadodara-based clean-fuel equipment
+                                    manufacturer producing hydraulic booster compressors and dispensers for CNG,
+                                    Bio-CNG, LNG and hydrogen refuelling infrastructure.</p><a
+                                    href="https://www.photomtechnologies.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Gascomp Fueltech (India) Pvt. Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>World-first eco-friendly, non-hazardous 1.5V
+                                    battery made from an aloe vera-based herbal electrolyte, designed to replace toxic
+                                    dry-cell battery chemicals.</p><a href="https://www.gascomp.in/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Petrobot Technologies Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Robotic inspection of tanks, pipelines and
+                                    other industrial assets via the Jaipur-based startup&#39;s ITIS Rover and MagRover
+                                    platforms.</p><a href="https://petrobot.co.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Aloe Ecell Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Delhi-based deep-tech startup building
+                                    wireless, ground-embedded charging pads that let EVs charge up to 30% faster simply
+                                    by parking, without cables.</p><a href="https://www.aloeecell.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Dash Dynamic Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Delhi-based climate-tech startup offering
+                                    hybrid indoor air purification technology, including bi-polar ionization and
+                                    air-flushing services for buildings.</p><a href="https://dashdynamic.in/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Vayuguard Climate Tech Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Gujarat-based waste-to-value startup with
+                                    patented recycling technology that turns single-use plastic and construction &amp;
+                                    demolition waste into sustainable building materials.</p><a
+                                    href="https://vayuguard.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Saltech</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Gujarat-based waste-to-value startup with
+                                    patented recycling technology that turns single-use plastic and construction &amp;
+                                    demolition waste into sustainable building materials.</p><a
+                                    href="https://saltech.co.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Angelbot AI Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>New Delhi-based early-stage AI software
+                                    startup (incorporated mid-2025); limited public information is available on its
+                                    specific product line yet.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Kairus Energies Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Pune-based battery startup manufacturing
+                                    lithium-ion battery modules with a proprietary Hybrid Integrated Thermal Management
+                                    System for defence, aerospace and renewable-energy applications.</p><a
+                                    href="https://www.kairusenergies.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Watthour Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Pune-based deep-tech startup, incubated at
+                                    IIT Madras, developing indigenous sodium-ion and lithium-ion battery cells as a
+                                    lower-cost alternative to conventional lithium chemistries.</p><a
+                                    href="https://watthour24.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="ONGC" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by ONGC</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Nikol Automotive Pvt Ltd</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Pune-based charge point operator (NIKOL EV)
+                                    building and manufacturing AC EV chargers, with a network of 3,000+ charging
+                                    stations across India.</p><a href="https://www.nikolev.in/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>R D Grow Green India Water &amp; Power
+                                    Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Effluent Treatment Plant through
+                                    Electrolysis Means.</p><a
+                                    href="https://linkedin.com/company/grow-green-india-pvtltd" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Innotech Interventions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Development of a commercial
+                                    Bioelectrochemical Prototype for treatment of Produced water concurrent producing of
+                                    value added products.</p><a href="https://innotechin.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Caliche Private Limited</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Sand Reconsolidation by Injection of
+                                    Anaerobes (SRIJAN).</p><a href="https://calicheglobal.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Alvvin Engineering Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Electricity Generation using Stirling Engine
+                                    Technology and Flared Gas.</p><a href="https://alvvin.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Beta Tank Robotic Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Beta Tank Robotic Pvt. Ltd. is a OIL
+                                    portfolio startup working in industrial robotics &amp; automation.</p><a
+                                    href="https://betatankrobotics.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>DA&quot;Spatio Rhobotique Laboratory Pvt.
+                                    Ltd. (DSRL)</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Design and development of a multipurpose
+                                    wireless robot for oil well inspection and multifaceted oil and gas operation.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Rhomu Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Rhomu Technologies Pvt. Ltd. is a OIL
+                                    portfolio startup working in industrial robotics &amp; automation.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Ettenyl Petrochemicals Pvt. Ltd. (EPPL)
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Fuel Delivery Services using Mobile
+                                    application implementing IOT Technology.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Ohm Clean Tech Private Limited D (OCTPL)
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>a) LOHC based Hydrogen Storage &amp;
+                                    transportation system for mobility applications b) Development of a 9 meter H2 Bus.
+                                </p><a href="https://h2epower.net" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Minimines Cleantech Solutions Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Minimines Cleantech Solutions Pvt. Ltd. is a
+                                    OIL portfolio startup working in battery &amp; energy storage.</p><a
+                                    href="https://m-mines.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>UNIVERSALLYGREEN TECHNOLOGY PRIVATE LIMITED
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>UNIVERSALLYGREEN TECHNOLOGY PRIVATE LIMITED
+                                    is a OIL portfolio startup working in environment, sustainability &amp; waste
+                                    management.</p><a href="https://ugreentechnology.com" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Hopun Innovations Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Hopun Innovations Pvt. Ltd. is a OIL
+                                    portfolio startup working in environment, sustainability &amp; waste management.</p>
+                                <a href="https://linkedin.com/in/ripam-barooah-646182235" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Arovr Innovations Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Augmented Reality Experience for Cultural
+                                    Heritage Site and landmark.</p><a href="https://ar-o-vr.in" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Carbonation India Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Solid Extract Utilization from the
+                                    Desalination Plant.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Ambula Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Ambula Technologies Pvt. Ltd. is a OIL
+                                    portfolio startup working in healthcare &amp; medtech.</p><a
+                                    href="https://ambula.app" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>GRYOGEN PVT. LTD.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>“Gryogen: Most Efficient Green Hydrogen
+                                    Technology”.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>GREENOVATE SOLUTIONS PVT. LTD.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>CO2 Capture Reactor.</p><a
+                                    href="https://greenovate.in" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>ROTOAI PVT. LTD.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>RotoAI is developing an AI-driven predictive
+                                    maintenance system that continuously monitors pump and motor performance etc.,
+                                    detects anomalies, and predicts failures in advance.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>MYEKIGAI PROFOUND PVT. LTD.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Charging Management System.</p><a
+                                    href="https://myekigai.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>AGNITECH FORGE PVT. LTD.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Joule GraS- Joule Heating for Specialised
+                                    Graphene Synthesis from Undervalued Carbon.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>ECOVATIVE INNOVATIONS PVT. LTD</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>‘Unbubble’ - Sustainable Packaging.</p><a
+                                    href="https://unbubble.in" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>BRAVECORE PVT. LTD</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Target Acquisition System and High Speed
+                                    Drone, with handheld Ground Control Station (GCS), allows targets in visual range of
+                                    up to 3 km to be identified and seamlessly converted into autonomous...</p><a
+                                    href="https://bravecore.in" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>VIKASH GEOSENSING PVT. LTD</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>VIKASH GEOSENSING PVT. LTD. (Vikash
+                                    Geosensing) is a OIL portfolio startup working in aerospace &amp; defence.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>TRISHULOPULSION TECHNOLOGY PVT. LTD</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Liquid Rocket Engine.</p><a
+                                    href="https://trishulspace.com" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="OIL" data-sector="AgriTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by OIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>IDASU LABS PVT. LTD</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>AgriTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>EarthTwin Management System.</p>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>JV Foodworks Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>JV Foodworks Pvt. Ltd. is a GAIL portfolio
+                                    startup working in healthcare &amp; medtech.</p><a
+                                    href="https://tracxn.com/d/legal-entities/india/jv-foodworks-private-limited/__Ih4YNexWnHcAEsp_tIUZnVSOKJvRIXZKVr_1F7hYqUs"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Retail, E-Commerce &amp; Consumer Tech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Bhagwandas Retail (Lal 10) Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Retail, E-Commerce &amp; Consumer Tech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Bhagwandas Retail (Lal 10) Pvt. Ltd. is a
+                                    GAIL portfolio startup working in retail, e-commerce &amp; consumer tech.</p><a
+                                    href="https://www.lal10.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Persapien Innovations Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Persapien Innovations Pvt. Ltd. is a GAIL
+                                    portfolio startup working in healthcare &amp; medtech.</p><a
+                                    href="https://www.linkedin.com/company/persapien/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Automotive Technology &amp; Components"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Tycheejuno Speciality Tyres Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Automotive Technology &amp; Components</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Tycheejuno Speciality Tyres Pvt. Ltd. is a
+                                    GAIL portfolio startup working in automotive technology &amp; components.</p><a
+                                    href="https://tracxn.com/d/legal-entities/india/tycheejuno-speciality-tyres-private-limited/__ijcZXOEQKDKA_8ObgjGIQpw-eg9dgLYfPYGShtB3Drw"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Tache Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Delhi-based full-service market research
+                                    company running an app-based platform for primary data collection,
+                                    quantitative/qualitative survey research and analytics.</p><a
+                                    href="https://in.linkedin.com/company/tache-technologies" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Kshumat Energy Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Kshumat Energy Pvt. Ltd. is a GAIL portfolio
+                                    startup working in renewable &amp; clean energy.</p><a
+                                    href="https://kshumatenergy.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>R D Grow Green India Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>R D Grow Green India Pvt. Ltd. is a GAIL
+                                    portfolio startup working in industrial robotics &amp; automation.</p><a
+                                    href="https://www.zaubacorp.com/RD-GROW-GREEN-INDIA-PRIVATE-LIMITED-U74900HR2015PTC056645"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Zunik Energies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>IIT Roorkee-incubated startup manufacturing
+                                    on-grid and off-grid solar inverters, UPS systems and variable frequency drives for
+                                    renewable-energy applications.</p><a href="https://zunikenergies.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Arcturus Business Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Arcturus Business Solutions Pvt. Ltd. is a
+                                    GAIL portfolio startup working in data analytics, ai &amp; iot.</p><a
+                                    href="https://www.arcturusbusiness.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Prayogik Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Prayogik Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://prayogik.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Kriya Labs Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Kriya Labs Pvt. Ltd. is a GAIL portfolio
+                                    startup working in industrial robotics &amp; automation.</p><a
+                                    href="https://www.eai.in/solutions/indea/da/st/920" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Sarvodaya Infotech (Truck Suvidha)</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Sarvodaya Infotech (Truck Suvidha) is a GAIL
+                                    portfolio startup working in logistics &amp; supply chain.</p><a
+                                    href="https://trucksuvidha.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Vasitars Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Vasitars Pvt. Ltd. is a GAIL portfolio
+                                    startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://www.linkedin.com/company/vasitars-pvt.-ltd./?originalSubdomain=in"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>VDT Pipeline Integrity Solutions Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>VDT Pipeline Integrity Solutions Pvt. Ltd.
+                                    is a GAIL portfolio startup working in Oil &amp; Gas Operations.</p><a
+                                    href="https://www.linkedin.com/company/vdtintegritysolutions/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Industrial Robotics &amp; Automation"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>IROV Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Industrial Robotics &amp; Automation</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>IROV Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in industrial robotics &amp; automation.</p><a
+                                    href="https://www.linkedin.com/company/eyerov/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>GEO Climate Risk Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>GEO Climate Risk Solutions Pvt. Ltd. is a
+                                    GAIL portfolio startup working in environment, sustainability &amp; waste
+                                    management.</p><a href="https://gcrs.co.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>FeatherDyn Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>FeatherDyn Pvt. Ltd. is a GAIL portfolio
+                                    startup working in aerospace &amp; defence.</p><a href="http://www.featherdyn.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Orxa Energies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Orxa Energies Pvt. Ltd. is a GAIL portfolio
+                                    startup working in battery &amp; energy storage.</p><a
+                                    href="https://orxaenergies.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Quanteon Powertrain Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Quanteon Powertrain Pvt. Ltd. is a GAIL
+                                    portfolio startup working in electric mobility &amp; ev.</p><a
+                                    href="https://quanteonworld.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Yali Mobility Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Yali Mobility Pvt. Ltd. is a GAIL portfolio
+                                    startup working in electric mobility &amp; ev.</p><a
+                                    href="https://yalimobility.com/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Electric Mobility &amp; EV"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>C-Electric Automotive Drive Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Electric Mobility &amp; EV</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>C-Electric Automotive Drive Pvt. Ltd. is a
+                                    GAIL portfolio startup working in electric mobility &amp; ev.</p><a
+                                    href="https://www.c-electricdrives.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Pi Beam Labs Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Pi Beam Labs Pvt. Ltd. is a GAIL portfolio
+                                    startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.linkedin.com/company/pibeamlabs/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Cleanergy Tech Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Cleanergy Tech Solutions Pvt. Ltd. is a GAIL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://cleanergy.co.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Zonta Infratech Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Zonta Infratech Pvt. Ltd. is a GAIL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.linkedin.com/company/zonta-infratech-private-limited/?originalSubdomain=in"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>CEID Consultants and Engineering Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>CEID Consultants and Engineering Pvt. Ltd.
+                                    is a GAIL portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.ceidconsultants.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>LR Energy Vrindavan Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>LR Energy Vrindavan Pvt. Ltd. is a GAIL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://lrenergy.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Cargosite Ventures Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Cargosite Ventures Pvt. Ltd. is a GAIL
+                                    portfolio startup working in logistics &amp; supply chain.</p><a
+                                    href="https://tracxn.com/d/legal-entities/india/cargosite-ventures-private-limited/__UMhc5XhqLo_0dFbtjk-7Go7sxO9m4QVelZ3UqNbEmto"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Data Analytics, AI &amp; IoT"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Xyma Analytics Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Data Analytics, AI &amp; IoT</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Xyma Analytics Pvt. Ltd. is a GAIL portfolio
+                                    startup working in data analytics, ai &amp; iot.</p><a
+                                    href="https://www.linkedin.com/company/xyma-analytics/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Logistics &amp; Supply Chain"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Good Move Logistics and Transport Pvt. Ltd.
+                                </h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Logistics &amp; Supply Chain</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Good Move Logistics and Transport Pvt. Ltd.
+                                    is a GAIL portfolio startup working in logistics &amp; supply chain.</p><a
+                                    href="https://www.linkedin.com/company/good-move-logistics-and-transport-pvt-ltd/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Ducere Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Ducere Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in healthcare &amp; medtech.</p><a
+                                    href="https://ducere.io/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="FinTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Upkram Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>FinTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Upkram Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in fintech.</p><a
+                                    href="https://tracxn.com/d/legal-entities/india/upkram-technologies-private-limited/__tHyaLJTzn1ueGLlytDdcLhKyQXLr6Z_sZo3qapAsPJk"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Oil &amp; Gas Operations"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Nawgati Tech Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Oil &amp; Gas Operations</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Nawgati Tech Pvt. Ltd. is a GAIL portfolio
+                                    startup working in Oil &amp; Gas Operations.</p><a href="https://www.nawgati.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="FinTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Intellicon Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>FinTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Intellicon Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in fintech.</p><a href="https://www.intellicontech.com/"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Aerospace &amp; Defence"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Dream Aerospace Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Aerospace &amp; Defence</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Dream Aerospace Technologies Pvt. Ltd. is a
+                                    GAIL portfolio startup working in aerospace &amp; defence.</p><a
+                                    href="https://www.dreamaerospace.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Renewable &amp; Clean Energy"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Royal Bengal Greentech Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Renewable &amp; Clean Energy</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Royal Bengal Greentech Pvt. Ltd. is a GAIL
+                                    portfolio startup working in renewable &amp; clean energy.</p><a
+                                    href="https://www.royalbengalgreentech.com/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Healthcare &amp; MedTech"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Manjha Technologies Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Healthcare &amp; MedTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Manjha Technologies Pvt. Ltd. is a GAIL
+                                    portfolio startup working in healthcare &amp; medtech.</p><a
+                                    href="https://manjha.in/?srsltid=AfmBOor017e0jRPeAjD-qdFfRIDJio8RSL5NmXMWLB4nVpShcbCWIJ4g"
+                                    class="row-link" target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page
+                                    <span aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="FinTech" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Eagle AI Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>FinTech</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Eagle AI Pvt. Ltd. is a GAIL portfolio
+                                    startup working in fintech.</p><a href="https://eagleaie.com/" class="row-link"
+                                    target="_blank" rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span
+                                        aria-hidden="true" data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL"
+                        data-sector="Environment, Sustainability &amp; Waste Management" data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>REVY Environmental Solutions Pvt. Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Environment, Sustainability &amp; Waste
+                                    Management</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>REVY Environmental Solutions Pvt. Ltd. is a
+                                    GAIL portfolio startup working in environment, sustainability &amp; waste
+                                    management.</p><a href="https://www.revy.co.in/" class="row-link" target="_blank"
+                                    rel="noopener" data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="row" data-backer="GAIL" data-sector="Battery &amp; Energy Storage"
+                        data-astro-cid-lfsqn5tl>
+                        <div class="row-divider" aria-hidden="true" data-astro-cid-lfsqn5tl><span class="row-tag"
+                                data-astro-cid-lfsqn5tl>Backed by GAIL</span><svg width="61" height="61"
+                                viewBox="0 0 61 61" fill="none" class="row-spark" data-astro-cid-lfsqn5tl="true">
+                                <path
+                                    d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                    fill="#F37D2C" />
+                            </svg></div>
+                        <div class="row-body" data-astro-cid-lfsqn5tl>
+                            <div class="row-main" data-astro-cid-lfsqn5tl>
+                                <h3 class="row-name" data-astro-cid-lfsqn5tl>Indigenous Energy Storage Technologies Pvt.
+                                    Ltd.</h3>
+                                <p class="row-sector" data-astro-cid-lfsqn5tl><span class="dot" aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl></span>Battery &amp; Energy Storage</p>
+                            </div>
+                            <div class="row-side" data-astro-cid-lfsqn5tl>
+                                <p class="row-desc" data-astro-cid-lfsqn5tl>Indigenous Energy Storage Technologies Pvt.
+                                    Ltd. is a GAIL portfolio startup working in battery &amp; energy storage.</p><a
+                                    href="https://indienergy.in/" class="row-link" target="_blank" rel="noopener"
+                                    data-astro-cid-lfsqn5tl>Visit Page <span aria-hidden="true"
+                                        data-astro-cid-lfsqn5tl>&rarr;</span></a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <p class="empty-state" hidden data-astro-cid-lfsqn5tl>No ventures in this combination yet.</p>
+            </div>
+        </section>
+        <script type="module">var e = document.querySelector(`.explorer`), t = Array.from(e.querySelectorAll(`.chip`)), n = Array.from(e.querySelectorAll(`.row`)), r = e.querySelector(`.results-count`), i = e.querySelector(`.empty-state`), a = e.querySelector(`.sector-select`), o = { backer: `All`, sector: `All` }; function s() { let e = 0; for (let t of n) { let n = (o.backer === `All` || t.dataset.backer === o.backer) && (o.sector === `All` || t.dataset.sector === o.sector); t.hidden = !n, n && e++ } r.textContent = e === n.length ? `Showing all ${n.length} ventures` : `Showing ${e} of ${n.length} ventures`, i.hidden = e !== 0 } for (let e of t) e.addEventListener(`click`, () => { let n = e.dataset.filter, r = e.dataset.value; o[n] = r; for (let r of t) r.dataset.filter === n && r.setAttribute(`aria-pressed`, String(r === e)); n === `sector` && a && (a.value = r), s() }); a?.addEventListener(`change`, () => { let e = a.value; o.sector = e; for (let n of t) n.dataset.filter === `sector` && n.setAttribute(`aria-pressed`, String(n.dataset.value === e)); s() });</script>
+        <section class="cta-duo" data-astro-cid-nu3pgtim>
+            <div class="container" data-astro-cid-nu3pgtim>
+                <div class="columns" data-astro-cid-nu3pgtim>
+                    <div class="column reveal" data-astro-cid-nu3pgtim>
+                        <h2 data-astro-cid-nu3pgtim><span class="reveal-line" data-astro-cid-nu3pgtim><span
+                                    class="reveal-line-box" data-astro-cid-nu3pgtim><span class="reveal-line-text"
+                                        data-astro-cid-nu3pgtim>Building one of these?</span><svg width="138"
+                                        height="146" viewBox="0 0 138 146" fill="none" class="reveal-star"
+                                        aria-hidden="true" data-astro-cid-nu3pgtim="true">
+                                        <path
+                                            d="M114.544 61.331 L137.512 60.621 L94.388 74.263 C82.894 77.898 74.078 87.197 71.053 98.887 L58.985 145.497 L59.086 119.387 C59.162 99.530 42.783 83.557 22.968 84.166 L0.000 84.876 L43.124 71.235 C54.618 67.599 63.434 58.300 66.459 46.610 L78.527 0.000 L78.427 26.110 C78.351 45.968 94.730 61.940 114.544 61.331 Z"
+                                            fill="#1E1E3C" />
+                                    </svg></span></span></h2>
+                        <p class="reveal-rise reveal-rise--after-1-line" data-astro-cid-nu3pgtim>If your venture fits
+                            any of these sectors at TRL 4+, Cohort 1 is open. <br class="line-break"
+                                data-astro-cid-nu3pgtim>Bring the technology and a real industrial problem.</p><a
+                            href="https://app.mc2plus.in/ext/form/23869/1/apply" target="_blank"
+                            rel="noopener noreferrer" data-astro-cid-b7tmfpbf="true" class="pill filled"><span
+                                class="pill-label" data-astro-cid-b7tmfpbf>Apply</span><span class="pill-arrow"
+                                aria-hidden="true" data-astro-cid-b7tmfpbf><!-- Exact path from Figma nodes 1:992 (home), 1:8938 (about ghost) and 1:8959/about
+         filled — byte-identical across all three, confirmed via raw SVG fetch, so this
+         is the one universal icon, not a per-variant treatment. Filled shape (fill:
+         currentColor), not a stroked line — the previous stroke-based glyph was thinner
+         and smaller than Figma's bold, wide arrowhead. --><svg viewBox="0 0 44.9099 24.3499" fill="none"
+                                    data-astro-cid-b7tmfpbf>
+                                    <path d="M0 12.1699L41.62 9.84009V14.51L0 12.1699Z" fill="currentColor"
+                                        data-astro-cid-b7tmfpbf></path>
+                                    <path
+                                        d="M29.4399 0C35.4099 3.05 40.2699 7.47992 44.9099 12.1699C40.2799 16.8799 35.4199 21.3099 29.4399 24.3499C32.1299 19.0599 35.88 14.68 39.97 10.53V13.8301C35.89 9.66008 32.1399 5.29001 29.4399 0.0100098V0Z"
+                                        fill="currentColor" data-astro-cid-b7tmfpbf></path>
+                                </svg></span></a>
+                    </div>
+                    <div class="divider" aria-hidden="true" data-astro-cid-nu3pgtim><svg width="61" height="61"
+                            viewBox="0 0 61 61" fill="none" class="divider-spark" data-astro-cid-nu3pgtim="true">
+                            <path
+                                d="M15.5399 32.54L0 30.39L15.5399 28.24C22.1399 27.33 27.33 22.14 28.24 15.54L30.39 0L32.5399 15.54C33.4499 22.14 38.64 27.33 45.24 28.24L60.7799 30.39L45.24 32.54C38.64 33.45 33.4499 38.64 32.5399 45.24L30.39 60.78L28.24 45.24C27.33 38.64 22.1399 33.45 15.5399 32.54Z"
+                                fill="#F37D2C" />
+                        </svg></div>
+                    <div class="column reveal" data-astro-cid-nu3pgtim>
+                        <h2 data-astro-cid-nu3pgtim><span class="reveal-line" data-astro-cid-nu3pgtim><span
+                                    class="reveal-line-box" data-astro-cid-nu3pgtim><span class="reveal-line-text"
+                                        data-astro-cid-nu3pgtim>Scouting for deal flow?</span><svg width="138"
+                                        height="146" viewBox="0 0 138 146" fill="none" class="reveal-star"
+                                        aria-hidden="true" data-astro-cid-nu3pgtim="true">
+                                        <path
+                                            d="M114.544 61.331 L137.512 60.621 L94.388 74.263 C82.894 77.898 74.078 87.197 71.053 98.887 L58.985 145.497 L59.086 119.387 C59.162 99.530 42.783 83.557 22.968 84.166 L0.000 84.876 L43.124 71.235 C54.618 67.599 63.434 58.300 66.459 46.610 L78.527 0.000 L78.427 26.110 C78.351 45.968 94.730 61.940 114.544 61.331 Z"
+                                            fill="#1E1E3C" />
+                                    </svg></span></span></h2>
+                        <p class="reveal-rise reveal-rise--after-1-line" data-astro-cid-nu3pgtim>Corporates and
+                            investors can plug into a sourcing pipeline built on real industrial validation, co-invest
+                            or co-pilot with us.</p><a href="contact.html" data-astro-cid-b7tmfpbf="true"
+                            class="pill filled"><span class="pill-label" data-astro-cid-b7tmfpbf>Partner with
+                                MC²+</span><span class="pill-arrow" aria-hidden="true" data-astro-cid-b7tmfpbf><!-- Exact path from Figma nodes 1:992 (home), 1:8938 (about ghost) and 1:8959/about
+         filled — byte-identical across all three, confirmed via raw SVG fetch, so this
+         is the one universal icon, not a per-variant treatment. Filled shape (fill:
+         currentColor), not a stroked line — the previous stroke-based glyph was thinner
+         and smaller than Figma's bold, wide arrowhead. --><svg viewBox="0 0 44.9099 24.3499" fill="none"
+                                    data-astro-cid-b7tmfpbf>
+                                    <path d="M0 12.1699L41.62 9.84009V14.51L0 12.1699Z" fill="currentColor"
+                                        data-astro-cid-b7tmfpbf></path>
+                                    <path
+                                        d="M29.4399 0C35.4099 3.05 40.2699 7.47992 44.9099 12.1699C40.2799 16.8799 35.4199 21.3099 29.4399 24.3499C32.1299 19.0599 35.88 14.68 39.97 10.53V13.8301C35.89 9.66008 32.1399 5.29001 29.4399 0.0100098V0Z"
+                                        fill="currentColor" data-astro-cid-b7tmfpbf></path>
+                                </svg></span></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+<?php get_footer(); ?>

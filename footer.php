@@ -55,7 +55,7 @@
     </div>
   </footer>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="<?php echo esc_url(get_template_directory_uri() . '/js/custom.js'); ?>"></script>
+  <script src="<?php echo esc_url(get_template_directory_uri() . '/assets/js/custom.js'); ?>"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <?php wp_footer(); ?>
 </body>

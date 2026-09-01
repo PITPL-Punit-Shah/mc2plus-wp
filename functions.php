@@ -1,6 +1,6 @@
 <?php
 /**
- * Global Processing Theme Functions
+ * Mc2 Theme Functions
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

@@ -6,12 +6,12 @@
     <meta name="generator" content="Astro v7.0.7">
     <meta name="description" content="MC²+ — Multiply · Collaborate · Create. India's flagship energy innovation platform.">
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
-    <link rel="preload" href="<?php echo esc_url(get_template_directory_uri() . '/._astro/fonts/23be7ab7004666bf.ttf'); ?>" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="<?php echo esc_url(get_template_directory_uri() . '/._astro/fonts/b3266d2072dd3ea2.ttf'); ?>" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="<?php echo esc_url(get_template_directory_uri() . '/assets/fonts/23be7ab7004666bf.ttf'); ?>" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="<?php echo esc_url(get_template_directory_uri() . '/assets/fonts/b3266d2072dd3ea2.ttf'); ?>" as="font" type="font/ttf" crossorigin>
     <title>MC²+ · Multiply · Collaborate · Create</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() . '/._astro/bootstrap-custom.css'); ?>">
-    <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() . '/._astro/inline-styles.css'); ?>">
+    <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() . '/assets/bootstrap-custom.css'); ?>">
+    <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() . '/assets/inline-styles.css'); ?>">
     <script>
         window.va = window.va || function () {
             (window.vaq = window.vaq || []).push(arguments);
@@ -41,22 +41,22 @@
             <nav id="site-nav" class="collapse navbar-collapse show-lg" aria-label="Main" data-astro-cid-nen7h5rs>
                 <ul class="navbar-nav nav-list d-flex list-unstyled m-0 p-0" data-astro-cid-nen7h5rs>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="about.html" data-astro-cid-nen7h5rs>About</a>
+                        <a class="nav-link" href="/about/" data-astro-cid-nen7h5rs>About</a>
                     </li>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="team.html" data-astro-cid-nen7h5rs>Team</a>
+                        <a class="nav-link" href="/team/" data-astro-cid-nen7h5rs>Team</a>
                     </li>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="initiatives.html" data-astro-cid-nen7h5rs>Initiatives</a>
+                        <a class="nav-link" href="/initiatives/" data-astro-cid-nen7h5rs>Initiatives</a>
                     </li>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="support.html" data-astro-cid-nen7h5rs>Support</a>
+                        <a class="nav-link" href="/support/" data-astro-cid-nen7h5rs>Support</a>
                     </li>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="portfolio.html" data-astro-cid-nen7h5rs>Portfolio</a>
+                        <a class="nav-link" href="/portfolio/" data-astro-cid-nen7h5rs>Portfolio</a>
                     </li>
                     <li class="nav-item" data-astro-cid-nen7h5rs>
-                        <a class="nav-link" href="contact.html" data-astro-cid-nen7h5rs>Contact</a>
+                        <a class="nav-link" href="/contact/" data-astro-cid-nen7h5rs>Contact</a>
                     </li>
                     <!-- Engagements Dropdown -->
                     <li class="nav-item dropdown has-submenu" data-astro-cid-nen7h5rs>
@@ -68,13 +68,13 @@
                         </button>
                         <ul id="submenu-6" class="dropdown-menu submenu list-unstyled" data-astro-cid-nen7h5rs>
                             <li data-astro-cid-nen7h5rs>
-                                <a class="dropdown-item" href="engagements/news-media.html" data-astro-cid-nen7h5rs>News &amp; Media</a>
+                                <a class="dropdown-item" href="/news-media/" data-astro-cid-nen7h5rs>News &amp; Media</a>
                             </li>
                             <li data-astro-cid-nen7h5rs>
-                                <a class="dropdown-item" href="engagements/career.html" data-astro-cid-nen7h5rs>Career</a>
+                                <a class="dropdown-item" href="/career/" data-astro-cid-nen7h5rs>Career</a>
                             </li>
                             <li data-astro-cid-nen7h5rs>
-                                <a class="dropdown-item" href="engagements/procurements.html" data-astro-cid-nen7h5rs>Procurements</a>
+                                <a class="dropdown-item" href="/procurements/" data-astro-cid-nen7h5rs>Procurements</a>
                             </li>
                         </ul>
                     </li>
