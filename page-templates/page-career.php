@@ -152,7 +152,7 @@ get_header(); ?>
                     </svg>
                   </span>
                 </a>
-                <a href="../assets/careers/MC2-JD-Manager-Marketing-Communications.pdf" target="_blank"
+                <a href="<?php echo esc_url(get_template_directory_uri() . '/assets/careers/MC2-JD-Manager-Marketing-Communications.pdf'); ?>" target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Download full job description PDF for Manager, Marketing &amp; Communications"
                   data-astro-cid-b7tmfpbf="true" class="pill ghost">
@@ -211,7 +211,7 @@ get_header(); ?>
                     </svg>
                   </span>
                 </a>
-                <a href="../assets/careers/MC2-JD-Finance-Manager.pdf" target="_blank" rel="noopener noreferrer"
+                <a href="<?php echo esc_url(get_template_directory_uri() . '/assets/careers/MC2-JD-Finance-Manager.pdf'); ?>" target="_blank" rel="noopener noreferrer"
                   aria-label="Download full job description PDF for Finance Manager" data-astro-cid-b7tmfpbf="true"
                   class="pill ghost">
                   <span class="pill-label" data-astro-cid-b7tmfpbf>Download full JD (PDF)</span>
@@ -268,7 +268,7 @@ get_header(); ?>
                     </svg>
                   </span>
                 </a>
-                <a href="../assets/careers/MC2-JD-HR-Manager.pdf" target="_blank" rel="noopener noreferrer"
+                <a href="<?php echo esc_url(get_template_directory_uri() . '/assets/careers/MC2-JD-HR-Manager.pdf'); ?>" target="_blank" rel="noopener noreferrer"
                   aria-label="Download full job description PDF for HR Manager" data-astro-cid-b7tmfpbf="true"
                   class="pill ghost">
                   <span class="pill-label" data-astro-cid-b7tmfpbf>Download full JD (PDF)</span>
@@ -327,7 +327,7 @@ get_header(); ?>
                     </svg>
                   </span>
                 </a>
-                <a href="../assets/careers/MC2-JD-Manager-Partnerships.pdf" target="_blank" rel="noopener noreferrer"
+                <a href="<?php echo esc_url(get_template_directory_uri() . '/assets/careers/MC2-JD-Manager-Partnerships.pdf'); ?>" target="_blank" rel="noopener noreferrer"
                   aria-label="Download full job description PDF for Manager, Partnerships" data-astro-cid-b7tmfpbf="true"
                   class="pill ghost">
                   <span class="pill-label" data-astro-cid-b7tmfpbf>Download full JD (PDF)</span>
