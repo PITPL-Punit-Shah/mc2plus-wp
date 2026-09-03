@@ -1,0 +1,102 @@
+{
+  "key": "group_news_media_details",
+  "title": "News & Media Details",
+  "fields": [
+    {
+      "key": "field_press_source",
+      "label": "Press Source",
+      "name": "press_source",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "Enter the publication or media source name, e.g. Indian Pharma Post, PSU Watch, Business News This Week.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "",
+      "maxlength": "",
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_press_link",
+      "label": "Press Link",
+      "name": "press_link",
+      "aria-label": "",
+      "type": "url",
+      "instructions": "Enter the external news/article URL. Leave empty when using a PDF.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "",
+      "placeholder": "https://example.com/article"
+    },
+    {
+      "key": "field_press_pdf",
+      "label": "Press PDF",
+      "name": "press_pdf",
+      "aria-label": "",
+      "type": "file",
+      "instructions": "Upload the press release PDF. Leave empty when using an external Press Link.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "return_format": "url",
+      "library": "all",
+      "min_size": "",
+      "max_size": "",
+      "mime_types": "pdf"
+    },
+    {
+      "key": "field_press_summary",
+      "label": "Press Summary",
+      "name": "press_summary",
+      "aria-label": "",
+      "type": "textarea",
+      "instructions": "Optional summary displayed on the News & Media card. If empty, the WordPress excerpt will be used.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "",
+      "maxlength": "",
+      "rows": 4,
+      "placeholder": "",
+      "new_lines": "br"
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "post_type",
+        "operator": "==",
+        "value": "post"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0,
+  "display_title": ""
+}

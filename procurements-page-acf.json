@@ -1,0 +1,482 @@
+{
+  "key": "group_procurements_page",
+  "title": "Procurements Page",
+  "fields": [
+    {
+      "key": "field_procurements_hero_tab",
+      "label": "Hero Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_procurements_hero_eyebrow",
+      "label": "Eyebrow",
+      "name": "hero_eyebrow",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "Example: PROCUREMENTS",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "PROCUREMENTS",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_procurements_hero_description_1",
+      "label": "Hero Description 1",
+      "name": "hero_description_1",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Open tenders, RFPs and vendor empanelment opportunities at MC²+.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_procurements_hero_description_2",
+      "label": "Hero Description 2",
+      "name": "hero_description_2",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "MC²+ and other HTML entities/tags may be used.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "MC²+ periodically invites bids from qualified vendors, service providers and agencies to support our infrastructure, programme delivery and operations. All tenders are published here along with the relevant documents and submission process. MC²+ reserves the right to accept or reject any or all bids without assigning reasons.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_procurements_tenders_tab",
+      "label": "Tenders Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_procurements_tenders_eyebrow",
+      "label": "Section Eyebrow",
+      "name": "tenders_section_eyebrow",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "OPEN TENDERS",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_procurements_tenders_title",
+      "label": "Section Title",
+      "name": "tenders_section_title",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Current tenders",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_procurements_tenders_intro",
+      "label": "Section Intro",
+      "name": "tenders_section_intro",
+      "aria-label": "",
+      "type": "textarea",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Click a tender to submit a bid or download the full RFP document.",
+      "maxlength": "",
+      "rows": 3,
+      "new_lines": "br",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_procurements_tenders",
+      "label": "Tenders",
+      "name": "tenders",
+      "aria-label": "",
+      "type": "repeater",
+      "instructions": "Add, remove and reorder tenders. Each tender appears as an expandable accordion item.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "layout": "block",
+      "pagination": 0,
+      "min": 0,
+      "max": 0,
+      "collapsed": "field_procurement_tender_title",
+      "button_label": "Add Tender",
+      "rows_per_page": 20,
+      "sub_fields": [
+        {
+          "key": "field_procurement_tender_title",
+          "label": "Tender Title",
+          "name": "title",
+          "aria-label": "",
+          "type": "textarea",
+          "instructions": "",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "rows": 4,
+          "new_lines": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_procurement_tender_meta",
+          "label": "Tender Meta",
+          "name": "meta",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: RFP · New Delhi · Issued by MC²+ (MC2 Foundation)",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_procurement_prebid_enabled",
+          "label": "Show Pre-Bid Information",
+          "name": "prebid_enabled",
+          "aria-label": "",
+          "type": "true_false",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "30",
+            "class": "",
+            "id": ""
+          },
+          "message": "Display pre-bid meeting information",
+          "default_value": 0,
+          "ui": 1,
+          "ui_on_text": "Yes",
+          "ui_off_text": "No",
+          "allow_in_bindings": 0
+        },
+        {
+          "key": "field_procurement_prebid_text",
+          "label": "Pre-Bid Information",
+          "name": "prebid_text",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: Pre-Bid Meeting: 4:00 PM, 25 August 2026",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "70",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_procurement_documents",
+          "label": "Tender Actions / Documents",
+          "name": "documents",
+          "aria-label": "",
+          "type": "repeater",
+          "instructions": "Add submission links, RFP PDFs, notices, corrigenda, etc.",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "layout": "block",
+          "pagination": 0,
+          "min": 0,
+          "max": 0,
+          "collapsed": "field_procurement_document_label",
+          "button_label": "Add Action / Document",
+          "rows_per_page": 20,
+          "sub_fields": [
+            {
+              "key": "field_procurement_document_type",
+              "label": "Type",
+              "name": "type",
+              "aria-label": "",
+              "type": "select",
+              "instructions": "",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+              },
+              "choices": {
+                "submit": "Submit Bid",
+                "pdf": "PDF / Document",
+                "link": "External Link"
+              },
+              "default_value": "pdf",
+              "return_format": "value",
+              "multiple": 0,
+              "allow_null": 0,
+              "ui": 1,
+              "ajax": 0,
+              "placeholder": "",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_procurement_document_label",
+              "label": "Button Label",
+              "name": "label",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "",
+              "required": 1,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "75",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            },
+            {
+              "key": "field_procurement_document_url",
+              "label": "URL",
+              "name": "url",
+              "aria-label": "",
+              "type": "url",
+              "instructions": "Use for an external submission URL or document URL.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            },
+            {
+              "key": "field_procurement_document_file",
+              "label": "PDF / Document File",
+              "name": "file",
+              "aria-label": "",
+              "type": "file",
+              "instructions": "Upload/select a PDF or document. This takes priority over the URL field.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "return_format": "array",
+              "library": "all",
+              "min_size": "",
+              "max_size": "",
+              "mime_types": "pdf,doc,docx",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_procurement_document_target",
+              "label": "Target",
+              "name": "target",
+              "aria-label": "",
+              "type": "select",
+              "instructions": "",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+              },
+              "choices": {
+                "_blank": "New Window",
+                "_self": "Same Window"
+              },
+              "default_value": "_blank",
+              "return_format": "value",
+              "multiple": 0,
+              "allow_null": 0,
+              "ui": 1,
+              "ajax": 0,
+              "placeholder": "",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_procurement_document_class",
+              "label": "Button CSS Class",
+              "name": "class",
+              "aria-label": "",
+              "type": "select",
+              "instructions": "Keep filled for Submit Bid and ghost for documents to preserve the existing design.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+              },
+              "choices": {
+                "filled": "filled",
+                "ghost": "ghost"
+              },
+              "default_value": "ghost",
+              "return_format": "value",
+              "multiple": 0,
+              "allow_null": 0,
+              "ui": 1,
+              "ajax": 0,
+              "placeholder": "",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_procurement_document_aria",
+              "label": "ARIA Label",
+              "name": "aria_label",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "Optional accessibility label.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "page_template",
+        "operator": "==",
+        "value": "page-procurements.php"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0
+}

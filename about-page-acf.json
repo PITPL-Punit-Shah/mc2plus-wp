@@ -1,0 +1,354 @@
+{
+    "key": "group_about_page",
+    "title": "About Page",
+    "fields": [
+        {
+            "key": "field_about_tab_hero",
+            "label": "Hero Section",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0,
+            "selected": 0
+        },
+        {
+            "key": "field_about_hero_eyebrow",
+            "label": "Hero Eyebrow",
+            "name": "hero_eyebrow",
+            "type": "text",
+            "default_value": "ABOUT",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_hero_line_1",
+            "label": "Hero Line 1",
+            "name": "hero_line_1",
+            "type": "text",
+            "default_value": "Where India&rsquo;s",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_hero_line_2",
+            "label": "Hero Line 2",
+            "name": "hero_line_2",
+            "type": "text",
+            "default_value": "Energy Innovation",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_hero_line_3",
+            "label": "Hero Line 3",
+            "name": "hero_line_3",
+            "type": "text",
+            "default_value": "gets built.",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_hero_description",
+            "label": "Hero Description",
+            "name": "hero_description",
+            "type": "textarea",
+            "default_value": "MC&sup2;+ exists with a single mandate: to catalyse Indian energy innovation and accelerate the country&rsquo;s energy security and transition.",
+            "rows": 4,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_tab_mission",
+            "label": "Mission Section",
+            "name": "",
+            "type": "tab",
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_about_mission_title",
+            "label": "Mission Title",
+            "name": "mission_title",
+            "type": "text",
+            "default_value": "Our Mission",
+            "wrapper": {
+                "width": "30"
+            }
+        },
+        {
+            "key": "field_about_mission_description",
+            "label": "Mission Description",
+            "name": "mission_description",
+            "type": "textarea",
+            "default_value": "Take energy ventures from idea to industrial deployment through unmatched access to infrastructure, capital, mentorship and market access.",
+            "rows": 4,
+            "new_lines": "br",
+            "wrapper": {
+                "width": "70"
+            }
+        },
+        {
+            "key": "field_about_tab_vision",
+            "label": "Vision Section",
+            "name": "",
+            "type": "tab",
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_about_vision_title",
+            "label": "Vision Title",
+            "name": "vision_title",
+            "type": "text",
+            "default_value": "Our Vision",
+            "wrapper": {
+                "width": "100"
+            }
+        },
+        {
+            "key": "field_about_vision_paragraph_1",
+            "label": "Vision Paragraph 1",
+            "name": "vision_paragraph_1",
+            "type": "textarea",
+            "default_value": "MC&sup2;+ is India&rsquo;s commitment to backing the founders, researchers, and builders creating the technologies that will define India&rsquo;s energy future. By opening up the infrastructure, capital, piloting sites, and expertise of India&rsquo;s largest energy majors, we are creating an unprecedented platform for energy entrepreneurship at a scale no single organization could offer alone.",
+            "rows": 6,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_vision_paragraph_2",
+            "label": "Vision Paragraph 2",
+            "name": "vision_paragraph_2",
+            "type": "textarea",
+            "default_value": "MC&sup2;+ brings HPCL, ONGC, Indian Oil, BPCL, GAIL, Oil India and Petronet LNG under one mandate. Where a startup once knocked on different doors hoping one would open, there is now a single, serious, well-funded door, backed by $232 billion in combined industrial scale.",
+            "rows": 6,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_vision_highlight",
+            "label": "Vision Highlight",
+            "name": "vision_highlight",
+            "type": "textarea",
+            "default_value": "Our goal is to make India the world&rsquo;s most vibrant hub for energy innovations that define a secure, sustainable, globally competitive energy future.",
+            "rows": 4,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_tab_sponsors",
+            "label": "Sponsors Section",
+            "name": "",
+            "type": "tab",
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_about_sponsors_eyebrow",
+            "label": "Sponsors Eyebrow",
+            "name": "sponsors_eyebrow",
+            "type": "textarea",
+            "default_value": "Backed by India&rsquo;s oil and gas majors with a turnover of $232 billion",
+            "rows": 2,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_sponsor_logos",
+            "label": "Sponsor Logos",
+            "name": "sponsor_logos",
+            "type": "repeater",
+            "instructions": "Add or reorder sponsor logos.",
+            "layout": "block",
+            "button_label": "Add Sponsor",
+            "collapsed": "field_about_sponsor_alt",
+            "sub_fields": [
+                {
+                    "key": "field_about_sponsor_logo",
+                    "label": "Logo",
+                    "name": "logo",
+                    "type": "image",
+                    "return_format": "array",
+                    "preview_size": "medium",
+                    "library": "all",
+                    "mime_types": "jpg,jpeg,png,webp",
+                    "wrapper": {
+                        "width": "50"
+                    }
+                },
+                {
+                    "key": "field_about_sponsor_alt",
+                    "label": "Logo Alt Text",
+                    "name": "alt",
+                    "type": "text",
+                    "wrapper": {
+                        "width": "50"
+                    }
+                },
+                {
+                    "key": "field_about_sponsor_width",
+                    "label": "Width",
+                    "name": "width",
+                    "type": "number",
+                    "wrapper": {
+                        "width": "50"
+                    }
+                },
+                {
+                    "key": "field_about_sponsor_height",
+                    "label": "Height",
+                    "name": "height",
+                    "type": "number",
+                    "wrapper": {
+                        "width": "50"
+                    }
+                }
+            ]
+        },
+        {
+            "key": "field_about_meet_team_text",
+            "label": "Meet Team Text",
+            "name": "meet_team_text",
+            "type": "text",
+            "default_value": "Meet the team",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_meet_team_url",
+            "label": "Meet Team URL",
+            "name": "meet_team_url",
+            "type": "url",
+            "default_value": "/team/",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_initiatives_text",
+            "label": "Initiatives Text",
+            "name": "initiatives_text",
+            "type": "text",
+            "default_value": "Explore initiatives",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_initiatives_url",
+            "label": "Initiatives URL",
+            "name": "initiatives_url",
+            "type": "url",
+            "default_value": "/initiatives/",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_tab_scale",
+            "label": "Scale Section",
+            "name": "",
+            "type": "tab",
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_about_scale_eyebrow",
+            "label": "Scale Eyebrow",
+            "name": "scale_eyebrow",
+            "type": "text",
+            "default_value": "THE SCALE BEHIND YOU",
+            "wrapper": {
+                "width": "100"
+            }
+        },
+        {
+            "key": "field_about_scale_title_line_1",
+            "label": "Scale Title Line 1",
+            "name": "scale_title_line_1",
+            "type": "text",
+            "default_value": "The industrial weight behind",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_scale_title_line_2",
+            "label": "Scale Title Line 2",
+            "name": "scale_title_line_2",
+            "type": "text",
+            "default_value": "every venture.",
+            "wrapper": {
+                "width": "50"
+            }
+        },
+        {
+            "key": "field_about_scale_intro",
+            "label": "Scale Introduction",
+            "name": "scale_intro",
+            "type": "textarea",
+            "default_value": "Seven energy majors contribute infrastructure, domain mentorship, pilot sites and anchor demand, assets no standalone incubator can replicate.",
+            "rows": 4,
+            "new_lines": ""
+        },
+        {
+            "key": "field_about_statistics",
+            "label": "Statistics",
+            "name": "statistics",
+            "type": "repeater",
+            "instructions": "Add, remove or reorder statistics.",
+            "layout": "block",
+            "button_label": "Add Statistic",
+            "collapsed": "field_about_stat_value",
+            "sub_fields": [
+                {
+                    "key": "field_about_stat_value",
+                    "label": "Stat Value",
+                    "name": "stat_value",
+                    "type": "text",
+                    "wrapper": {
+                        "width": "40"
+                    }
+                },
+                {
+                    "key": "field_about_stat_description",
+                    "label": "Stat Description",
+                    "name": "stat_description",
+                    "type": "textarea",
+                    "rows": 3,
+                    "new_lines": "",
+                    "wrapper": {
+                        "width": "60"
+                    }
+                }
+            ]
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "page-about.php"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "ACF Pro fields for the About Page.",
+    "show_in_rest": 0
+}

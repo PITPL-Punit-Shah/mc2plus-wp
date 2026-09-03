@@ -1,0 +1,628 @@
+{
+  "key": "group_support_page",
+  "title": "Support Page",
+  "fields": [
+    {
+      "key": "field_support_hero_tab",
+      "label": "Hero Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_support_hero_eyebrow",
+      "label": "Eyebrow",
+      "name": "hero_eyebrow",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "Example: SUPPORT",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "SUPPORT",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_hero_line_1",
+      "label": "Heading Line 1",
+      "name": "hero_line_1",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Everything an",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_hero_line_2",
+      "label": "Heading Line 2",
+      "name": "hero_line_2",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "energy venture needs,",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_hero_line_3",
+      "label": "Heading Line 3",
+      "name": "hero_line_3",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "under one roof",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_hero_description",
+      "label": "Description",
+      "name": "hero_description",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "HTML such as <sup>2</sup> can be used.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Capital is rarely the whole problem. MC<sup>2</sup>+ pairs funding with the expertise, infrastructure and market access that energy hardware actually needs to reach industrial scale.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_support_stack_tab",
+      "label": "Support Stack Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_support_cards",
+      "label": "Support Cards",
+      "name": "support_cards",
+      "aria-label": "",
+      "type": "repeater",
+      "instructions": "Manage the four support cards. Keep the existing class values to preserve the current CSS/animation behavior.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "layout": "block",
+      "pagination": 0,
+      "min": 0,
+      "max": 0,
+      "collapsed": "field_support_card_title",
+      "button_label": "Add Support Card",
+      "rows_per_page": 20,
+      "sub_fields": [
+        {
+          "key": "field_support_card_number",
+          "label": "Card Number",
+          "name": "card_number",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: 01",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "15",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "2",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_eyebrow",
+          "label": "Card Eyebrow",
+          "name": "card_eyebrow",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: WHAT WE FUND",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "35",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_title",
+          "label": "Title",
+          "name": "title",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_subtitle",
+          "label": "Subtitle",
+          "name": "subtitle",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_intro",
+          "label": "Intro",
+          "name": "intro",
+          "aria-label": "",
+          "type": "wysiwyg",
+          "instructions": "HTML entities/tags such as &amp; and <sup> can be used.",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "tabs": "visual",
+          "toolbar": "basic",
+          "media_upload": 0,
+          "delay": 0
+        },
+        {
+          "key": "field_support_card_class",
+          "label": "CSS Class",
+          "name": "class",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Do not change unless you also update the CSS. Existing values: capital, expertise, infrastructure, piloting.",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_image",
+          "label": "Art Image",
+          "name": "image",
+          "aria-label": "",
+          "type": "image",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "return_format": "array",
+          "library": "all",
+          "min_width": "",
+          "min_height": "",
+          "min_size": "",
+          "max_width": "",
+          "max_height": "",
+          "max_size": "",
+          "mime_types": "webp,jpg,jpeg,png",
+          "allow_in_bindings": 0,
+          "preview_size": "medium"
+        },
+        {
+          "key": "field_support_card_image_srcset",
+          "label": "Image Srcset",
+          "name": "image_srcset",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Optional. Keep the existing value if required by the design.",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_image_width",
+          "label": "Image Width",
+          "name": "image_width",
+          "aria-label": "",
+          "type": "number",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "25",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "min": "",
+          "max": "",
+          "step": "",
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_image_height",
+          "label": "Image Height",
+          "name": "image_height",
+          "aria-label": "",
+          "type": "number",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "25",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "min": "",
+          "max": "",
+          "step": "",
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_image_sizes",
+          "label": "Image Sizes",
+          "name": "image_sizes",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: 469px",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "25",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_image_alt",
+          "label": "Image Alt",
+          "name": "image_alt",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "25",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_support_card_list",
+          "label": "List Items",
+          "name": "list",
+          "aria-label": "",
+          "type": "repeater",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "layout": "table",
+          "pagination": 0,
+          "min": 0,
+          "max": 0,
+          "collapsed": "",
+          "button_label": "Add List Item",
+          "rows_per_page": 20,
+          "sub_fields": [
+            {
+              "key": "field_support_card_list_item",
+              "label": "List Item",
+              "name": "item",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "field_support_cta_tab",
+      "label": "Support CTA Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_support_cta_title",
+      "label": "CTA Title",
+      "name": "cta_title",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Build with all of this behind you.",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_cta_description",
+      "label": "CTA Description",
+      "name": "cta_description",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "HTML such as <sup>2</sup> can be used.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "The first MC<sup>2</sup>+ cohort launches soon. Bring the technology and put this support stack to work.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_support_cta_button_1_text",
+      "label": "Button 1 Text",
+      "name": "cta_button_1_text",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Get in touch",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_cta_button_1_url",
+      "label": "Button 1 URL",
+      "name": "cta_button_1_url",
+      "aria-label": "",
+      "type": "url",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "contact.html",
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_cta_button_2_text",
+      "label": "Button 2 Text",
+      "name": "cta_button_2_text",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Explore initiatives",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_support_cta_button_2_url",
+      "label": "Button 2 URL",
+      "name": "cta_button_2_url",
+      "aria-label": "",
+      "type": "url",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "50",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "initiatives.html",
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "page_template",
+        "operator": "==",
+        "value": "page-support.php"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0,
+  "modified": 1778430000
+}

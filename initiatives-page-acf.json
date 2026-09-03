@@ -1,0 +1,901 @@
+[
+  {
+    "key": "group_initiatives_page",
+    "title": "Initiatives Page",
+    "fields": [
+      {
+        "key": "field_initiatives_hero_tab",
+        "label": "Hero Section",
+        "name": "",
+        "aria-label": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_initiatives_hero_eyebrow",
+        "label": "Eyebrow",
+        "name": "hero_eyebrow",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "33",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "INITIATIVES",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_hero_title_line_1",
+        "label": "Title Line 1",
+        "name": "hero_title_line_1",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Text before the orange accent text.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "33",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Built for ",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_hero_title_line_1_accent",
+        "label": "Title Line 1 Accent",
+        "name": "hero_title_line_1_accent",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "Orange accent text.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "33",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "every builder",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_hero_title_line_2",
+        "label": "Title Line 2",
+        "name": "hero_title_line_2",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "in India&rsquo;s energy story.",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_hero_description",
+        "label": "Description",
+        "name": "hero_description",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Whether you are an early-stage aspiring entrepreneur, a researcher with a lab&#8209;stage IP, or an institution ready to co-build the next decade of energy technology, MC&sup2;+ is for you.",
+        "maxlength": "",
+        "rows": 4,
+        "placeholder": "",
+        "new_lines": "br"
+      },
+      {
+        "key": "field_initiatives_hero_notice_text",
+        "label": "Notice Text",
+        "name": "hero_notice_text",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "70",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Capital, infrastructure and mentorship support every stage, from lab access to pilot sites across the seven energy majors.",
+        "maxlength": "",
+        "rows": 3,
+        "placeholder": "",
+        "new_lines": "br"
+      },
+      {
+        "key": "field_initiatives_hero_notice_link_text",
+        "label": "Notice Link Text",
+        "name": "hero_notice_link_text",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "30",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "See the full support stack",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_hero_notice_link_url",
+        "label": "Notice Link URL",
+        "name": "hero_notice_link_url",
+        "aria-label": "",
+        "type": "url",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "support.html",
+        "placeholder": ""
+      },
+      {
+        "key": "field_initiatives_how_tab",
+        "label": "How It Works",
+        "name": "",
+        "aria-label": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_initiatives_how_eyebrow",
+        "label": "Eyebrow",
+        "name": "how_eyebrow",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "33",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "HOW IT WORKS",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_how_title",
+        "label": "Title",
+        "name": "how_title",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "67",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "From idea, to deployment.",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_how_subtitle",
+        "label": "Subtitle",
+        "name": "how_subtitle",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Come in through a Grand Challenge, as a Fellow, or as an existing venture. Every builder moves through the same four steps.",
+        "maxlength": "",
+        "rows": 3,
+        "placeholder": "",
+        "new_lines": "br"
+      },
+      {
+        "key": "field_initiatives_how_steps",
+        "label": "Steps",
+        "name": "how_steps",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "Add the process steps.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "block",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "field_initiatives_step_title",
+        "button_label": "Add Step",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_initiatives_step_number",
+            "label": "Step Number",
+            "name": "step_number",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: O1, O2, O3, O4.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "20",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_step_title",
+            "label": "Title",
+            "name": "title",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "40",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_step_body",
+            "label": "Body",
+            "name": "body",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "40",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": 4,
+            "placeholder": "",
+            "new_lines": "br"
+          }
+        ]
+      },
+      {
+        "key": "field_initiatives_programs_tab",
+        "label": "Programs",
+        "name": "",
+        "aria-label": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_initiatives_programs",
+        "label": "Programs",
+        "name": "programs",
+        "aria-label": "",
+        "type": "repeater",
+        "instructions": "Add, remove and edit program cards.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layout": "block",
+        "pagination": 0,
+        "min": 0,
+        "max": 0,
+        "collapsed": "field_initiatives_program_number",
+        "button_label": "Add Program",
+        "rows_per_page": 20,
+        "sub_fields": [
+          {
+            "key": "field_initiatives_program_number",
+            "label": "Program Number",
+            "name": "number",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: O1, O2, O3, O4.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "20",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_program_label_lines",
+            "label": "Label Lines",
+            "name": "label_lines",
+            "aria-label": "",
+            "type": "repeater",
+            "instructions": "Each line appears inside the program label.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "50",
+              "class": "",
+              "id": ""
+            },
+            "layout": "table",
+            "pagination": 0,
+            "min": 0,
+            "max": 0,
+            "collapsed": "",
+            "button_label": "Add Label",
+            "rows_per_page": 20,
+            "sub_fields": [
+              {
+                "key": "field_initiatives_program_label_text",
+                "label": "Text",
+                "name": "text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "",
+                  "class": "",
+                  "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+              }
+            ]
+          },
+          {
+            "key": "field_initiatives_program_title_lines",
+            "label": "Title Lines",
+            "name": "title_lines",
+            "aria-label": "",
+            "type": "repeater",
+            "instructions": "Use multiple rows when the title needs the original split-line layout.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "50",
+              "class": "",
+              "id": ""
+            },
+            "layout": "table",
+            "pagination": 0,
+            "min": 0,
+            "max": 0,
+            "collapsed": "",
+            "button_label": "Add Title Line",
+            "rows_per_page": 20,
+            "sub_fields": [
+              {
+                "key": "field_initiatives_program_title_text",
+                "label": "Text",
+                "name": "text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "",
+                  "class": "",
+                  "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+              }
+            ]
+          },
+          {
+            "key": "field_initiatives_program_subtitle",
+            "label": "Subtitle",
+            "name": "subtitle",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "100",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_program_body",
+            "label": "Body",
+            "name": "body",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "100",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": 5,
+            "placeholder": "",
+            "new_lines": "br"
+          },
+          {
+            "key": "field_initiatives_program_chips",
+            "label": "Chips",
+            "name": "chips",
+            "aria-label": "",
+            "type": "repeater",
+            "instructions": "Add normal chips or a download chip.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "100",
+              "class": "",
+              "id": ""
+            },
+            "layout": "table",
+            "pagination": 0,
+            "min": 0,
+            "max": 0,
+            "collapsed": "",
+            "button_label": "Add Chip",
+            "rows_per_page": 20,
+            "sub_fields": [
+              {
+                "key": "field_initiatives_chip_text",
+                "label": "Text",
+                "name": "text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "45",
+                  "class": "",
+                  "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+              },
+              {
+                "key": "field_initiatives_chip_is_download",
+                "label": "Download Chip",
+                "name": "is_download",
+                "aria-label": "",
+                "type": "true_false",
+                "instructions": "Enable for the Download Brochure chip.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "20",
+                  "class": "",
+                  "id": ""
+                },
+                "message": "This is a download link",
+                "default_value": 0,
+                "ui": 1,
+                "ui_on_text": "",
+                "ui_off_text": ""
+              },
+              {
+                "key": "field_initiatives_chip_url",
+                "label": "URL",
+                "name": "url",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "Required for download chips.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "35",
+                  "class": "",
+                  "id": ""
+                },
+                "default_value": "",
+                "placeholder": ""
+              }
+            ]
+          },
+          {
+            "key": "field_initiatives_program_status_type",
+            "label": "Status Type",
+            "name": "status_type",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "25",
+              "class": "",
+              "id": ""
+            },
+            "choices": {
+              "none": "None",
+              "text": "Text / Coming Soon",
+              "button": "Apply Button"
+            },
+            "default_value": "none",
+            "return_format": "value",
+            "multiple": 0,
+            "allow_null": 0,
+            "ui": 0,
+            "ajax": 0,
+            "placeholder": ""
+          },
+          {
+            "key": "field_initiatives_program_status_text",
+            "label": "Status Text",
+            "name": "status_text",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: Coming soon",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "25",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_program_status_url",
+            "label": "Status Button URL",
+            "name": "status_url",
+            "aria-label": "",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "50",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+          },
+          {
+            "key": "field_initiatives_program_status_button_text",
+            "label": "Status Button Text",
+            "name": "status_button_text",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: Apply or Apply Now.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "25",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          },
+          {
+            "key": "field_initiatives_program_status_target",
+            "label": "Status Button Target",
+            "name": "status_target",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "25",
+              "class": "",
+              "id": ""
+            },
+            "choices": {
+              "_self": "Same Window",
+              "_blank": "New Window"
+            },
+            "default_value": "_blank",
+            "return_format": "value",
+            "multiple": 0,
+            "allow_null": 0,
+            "ui": 0,
+            "ajax": 0,
+            "placeholder": ""
+          },
+          {
+            "key": "field_initiatives_program_status_rel",
+            "label": "Status Button Rel",
+            "name": "status_rel",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Example: noopener noreferrer",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+              "width": "25",
+              "class": "",
+              "id": ""
+            },
+            "default_value": "noopener noreferrer",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+          }
+        ]
+      },
+      {
+        "key": "field_initiatives_cta_tab",
+        "label": "CTA Band",
+        "name": "",
+        "aria-label": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_initiatives_cta_title",
+        "label": "Title",
+        "name": "cta_title",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Found your entry point?",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_cta_body",
+        "label": "Body",
+        "name": "cta_body",
+        "aria-label": "",
+        "type": "textarea",
+        "instructions": "HTML such as <br> is supported.",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "100",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "The first MC&sup2;+ cohort launches soon.<br>Tell us what you&rsquo;re building in the meantime.",
+        "maxlength": "",
+        "rows": 3,
+        "placeholder": "",
+        "new_lines": ""
+      },
+      {
+        "key": "field_initiatives_cta_button_text",
+        "label": "Button Text",
+        "name": "cta_button_text",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "33",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Register your interest",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      },
+      {
+        "key": "field_initiatives_cta_button_url",
+        "label": "Button URL",
+        "name": "cta_button_url",
+        "aria-label": "",
+        "type": "url",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "34",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "https://app.mc2plus.in/ext/form/24027/1/apply",
+        "placeholder": ""
+      },
+      {
+        "key": "field_initiatives_cta_button_target",
+        "label": "Button Target",
+        "name": "cta_button_target",
+        "aria-label": "",
+        "type": "select",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "16",
+          "class": "",
+          "id": ""
+        },
+        "choices": {
+          "_self": "Same Window",
+          "_blank": "New Window"
+        },
+        "default_value": "_blank",
+        "return_format": "value",
+        "multiple": 0,
+        "allow_null": 0,
+        "ui": 0,
+        "ajax": 0,
+        "placeholder": ""
+      },
+      {
+        "key": "field_initiatives_cta_button_rel",
+        "label": "Button Rel",
+        "name": "cta_button_rel",
+        "aria-label": "",
+        "type": "text",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "17",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "noopener noreferrer",
+        "maxlength": "",
+        "placeholder": "",
+        "prepend": "",
+        "append": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "page_template",
+          "operator": "==",
+          "value": "page-initiatives.php"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "Dynamic ACF fields for the Initiatives page.",
+    "show_in_rest": 0
+  }
+]

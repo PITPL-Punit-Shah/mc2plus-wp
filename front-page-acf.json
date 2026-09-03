@@ -1,0 +1,596 @@
+[
+  {
+    "key": "group_front_page",
+    "title": "Front Page",
+    "fields": [
+      {
+        "key": "field_front_hero_tab",
+        "label": "Hero Section",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_hero_eyebrow",
+        "label": "Eyebrow",
+        "name": "hero_eyebrow",
+        "type": "text",
+        "default_value": "Multiply · Collaborate · Create",
+        "wrapper": {
+          "width": "100"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_1_before",
+        "label": "Title Line 1 - Before Accent",
+        "name": "hero_title_line_1_before",
+        "type": "text",
+        "default_value": "Where ideas ",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_1_accent",
+        "label": "Title Line 1 - Accent",
+        "name": "hero_title_line_1_accent",
+        "type": "text",
+        "default_value": "multiply",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_1_after",
+        "label": "Title Line 1 - After Accent",
+        "name": "hero_title_line_1_after",
+        "type": "text",
+        "default_value": ",",
+        "wrapper": {
+          "width": "34"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_2_before",
+        "label": "Title Line 2 - Before Accent",
+        "name": "hero_title_line_2_before",
+        "type": "text",
+        "default_value": "institutes ",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_2_accent",
+        "label": "Title Line 2 - Accent",
+        "name": "hero_title_line_2_accent",
+        "type": "text",
+        "default_value": "collaborate",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_2_after",
+        "label": "Title Line 2 - After Accent",
+        "name": "hero_title_line_2_after",
+        "type": "text",
+        "default_value": " and",
+        "wrapper": {
+          "width": "34"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_3_before",
+        "label": "Title Line 3 - Before Accent",
+        "name": "hero_title_line_3_before",
+        "type": "text",
+        "default_value": "visionaries ",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_3_accent",
+        "label": "Title Line 3 - Accent",
+        "name": "hero_title_line_3_accent",
+        "type": "text",
+        "default_value": "create",
+        "wrapper": {
+          "width": "33"
+        }
+      },
+      {
+        "key": "field_front_hero_title_line_3_after",
+        "label": "Title Line 3 - After Accent",
+        "name": "hero_title_line_3_after",
+        "type": "text",
+        "default_value": " energy ventures.",
+        "wrapper": {
+          "width": "34"
+        }
+      },
+      {
+        "key": "field_front_hero_description",
+        "label": "Description",
+        "name": "hero_description",
+        "type": "textarea",
+        "rows": 4,
+        "new_lines": "br",
+        "default_value": "India's flagship energy innovation platform, uniting seven of the country's largest energy majors to carry ventures from the lab bench to industrial scale."
+      },
+
+      {
+        "key": "field_front_sponsors_tab",
+        "label": "Energy Sponsors",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_sponsor_heading",
+        "label": "Heading",
+        "name": "sponsor_heading",
+        "type": "text",
+        "default_value": "Built together by India's energy backbone:"
+      },
+      {
+        "key": "field_front_sponsors",
+        "label": "Sponsors",
+        "name": "sponsors",
+        "type": "repeater",
+        "layout": "block",
+        "button_label": "Add Sponsor",
+        "collapsed": "field_front_sponsor_alt",
+        "sub_fields": [
+          {
+            "key": "field_front_sponsor_logo",
+            "label": "Logo",
+            "name": "logo",
+            "type": "image",
+            "return_format": "url",
+            "preview_size": "medium",
+            "wrapper": {
+              "width": "40"
+            }
+          },
+          {
+            "key": "field_front_sponsor_alt",
+            "label": "Alt Text",
+            "name": "alt",
+            "type": "text",
+            "wrapper": {
+              "width": "30"
+            }
+          },
+          {
+            "key": "field_front_sponsor_width",
+            "label": "Width",
+            "name": "width",
+            "type": "number",
+            "wrapper": {
+              "width": "15"
+            }
+          },
+          {
+            "key": "field_front_sponsor_height",
+            "label": "Height",
+            "name": "height",
+            "type": "number",
+            "wrapper": {
+              "width": "15"
+            }
+          }
+        ]
+      },
+
+      {
+        "key": "field_front_partners_tab",
+        "label": "Innovation Partners",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_partners_heading",
+        "label": "Heading",
+        "name": "partners_heading",
+        "type": "text",
+        "default_value": "Built on Partnerships Across India&rsquo;s Innovation Ecosystem"
+      },
+      {
+        "key": "field_front_partners",
+        "label": "Partners",
+        "name": "partners",
+        "type": "repeater",
+        "layout": "block",
+        "button_label": "Add Partner",
+        "collapsed": "field_front_partner_alt",
+        "sub_fields": [
+          {
+            "key": "field_front_partner_logo",
+            "label": "Logo",
+            "name": "logo",
+            "type": "image",
+            "return_format": "url",
+            "preview_size": "medium",
+            "wrapper": {
+              "width": "40"
+            }
+          },
+          {
+            "key": "field_front_partner_alt",
+            "label": "Alt Text",
+            "name": "alt",
+            "type": "text",
+            "wrapper": {
+              "width": "30"
+            }
+          },
+          {
+            "key": "field_front_partner_width",
+            "label": "Width",
+            "name": "width",
+            "type": "number",
+            "wrapper": {
+              "width": "15"
+            }
+          },
+          {
+            "key": "field_front_partner_height",
+            "label": "Height",
+            "name": "height",
+            "type": "number",
+            "wrapper": {
+              "width": "15"
+            }
+          }
+        ]
+      },
+
+      {
+        "key": "field_front_pillars_tab",
+        "label": "What We Provide",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_pillar_eyebrow",
+        "label": "Eyebrow",
+        "name": "pillar_eyebrow",
+        "type": "text",
+        "default_value": "WHAT WE PROVIDE"
+      },
+      {
+        "key": "field_front_pillar_title_line_1",
+        "label": "Title Line 1",
+        "name": "pillar_title_line_1",
+        "type": "text",
+        "default_value": "Four pillars. One mission: from idea "
+      },
+      {
+        "key": "field_front_pillar_title_line_2",
+        "label": "Title Line 2",
+        "name": "pillar_title_line_2",
+        "type": "text",
+        "default_value": "to industrial deployment."
+      },
+      {
+        "key": "field_front_pillars",
+        "label": "Pillars",
+        "name": "pillars",
+        "type": "repeater",
+        "layout": "block",
+        "button_label": "Add Pillar",
+        "collapsed": "field_front_pillar_title",
+        "sub_fields": [
+          {
+            "key": "field_front_pillar_number",
+            "label": "Number",
+            "name": "number",
+            "type": "text",
+            "default_value": "O1",
+            "wrapper": {
+              "width": "15"
+            }
+          },
+          {
+            "key": "field_front_pillar_title",
+            "label": "Title",
+            "name": "title",
+            "type": "text",
+            "wrapper": {
+              "width": "35"
+            }
+          },
+          {
+            "key": "field_front_pillar_body",
+            "label": "Body",
+            "name": "body",
+            "type": "textarea",
+            "rows": 5,
+            "new_lines": "br",
+            "wrapper": {
+              "width": "50"
+            }
+          },
+          {
+            "key": "field_front_pillar_image",
+            "label": "Illustration",
+            "name": "image",
+            "type": "image",
+            "return_format": "url",
+            "preview_size": "medium"
+          },
+          {
+            "key": "field_front_pillar_alt",
+            "label": "Image Alt Text",
+            "name": "alt",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "key": "field_front_pillar_cta_text",
+        "label": "CTA Text",
+        "name": "pillar_cta_text",
+        "type": "text",
+        "default_value": "See the full support stack"
+      },
+      {
+        "key": "field_front_pillar_cta_url",
+        "label": "CTA URL",
+        "name": "pillar_cta_url",
+        "type": "url",
+        "default_value": "support.html"
+      },
+
+      {
+        "key": "field_front_audiences_tab",
+        "label": "Who It's For",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_audience_eyebrow",
+        "label": "Eyebrow",
+        "name": "audience_eyebrow",
+        "type": "text",
+        "default_value": "WHO IT’S FOR"
+      },
+      {
+        "key": "field_front_audience_title_line_1",
+        "label": "Title Line 1",
+        "name": "audience_title_line_1",
+        "type": "text",
+        "default_value": "Built for every builder"
+      },
+      {
+        "key": "field_front_audience_title_line_2",
+        "label": "Title Line 2",
+        "name": "audience_title_line_2",
+        "type": "text",
+        "default_value": "in India’s energy&nbsp;story."
+      },
+      {
+        "key": "field_front_audience_intro",
+        "label": "Introduction",
+        "name": "audience_intro",
+        "type": "textarea",
+        "rows": 4,
+        "new_lines": "br",
+        "default_value": "Whether you are an early-stage aspiring entrepreneur, a researcher with a lab&#8209;stage IP, or an institution ready to co-build the next decade of energy technology – MC²+ is for you."
+      },
+      {
+        "key": "field_front_audience_cta_text",
+        "label": "CTA Text",
+        "name": "audience_cta_text",
+        "type": "text",
+        "default_value": "Explore the initiatives"
+      },
+      {
+        "key": "field_front_audience_cta_url",
+        "label": "CTA URL",
+        "name": "audience_cta_url",
+        "type": "url",
+        "default_value": "initiatives.html"
+      },
+      {
+        "key": "field_front_audiences",
+        "label": "Audiences",
+        "name": "audiences",
+        "type": "repeater",
+        "layout": "block",
+        "button_label": "Add Audience",
+        "collapsed": "field_front_audience_title",
+        "sub_fields": [
+          {
+            "key": "field_front_audience_number",
+            "label": "Number",
+            "name": "number",
+            "type": "text",
+            "wrapper": {
+              "width": "15"
+            }
+          },
+          {
+            "key": "field_front_audience_title",
+            "label": "Title",
+            "name": "title",
+            "type": "text",
+            "wrapper": {
+              "width": "55"
+            }
+          },
+          {
+            "key": "field_front_audience_body",
+            "label": "Body",
+            "name": "body",
+            "type": "textarea",
+            "rows": 4,
+            "new_lines": "br",
+            "wrapper": {
+              "width": "30"
+            }
+          },
+          {
+            "key": "field_front_audience_title_break",
+            "label": "Title Break",
+            "name": "title_break",
+            "type": "true_false",
+            "ui": 1,
+            "message": "Add line break after '&' in title"
+          }
+        ]
+      },
+
+      {
+        "key": "field_front_cta_modal_tab",
+        "label": "CTA & Challenge Modal",
+        "name": "",
+        "type": "tab",
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_front_cta_title_line_1",
+        "label": "CTA Title Line 1",
+        "name": "cta_title_line_1",
+        "type": "text",
+        "default_value": "Building in energy?"
+      },
+      {
+        "key": "field_front_cta_title_line_2",
+        "label": "CTA Title Line 2",
+        "name": "cta_title_line_2",
+        "type": "text",
+        "default_value": "Translate it with MC²+"
+      },
+      {
+        "key": "field_front_cta_body",
+        "label": "CTA Body",
+        "name": "cta_body",
+        "type": "textarea",
+        "rows": 4,
+        "new_lines": "br",
+        "default_value": "The first MC²+ cohort launches soon. Bring a defensible technology and a real problem worth an industrial pilot."
+      },
+      {
+        "key": "field_front_cta_button_text",
+        "label": "CTA Button Text",
+        "name": "cta_button_text",
+        "type": "text",
+        "default_value": "Get in touch"
+      },
+      {
+        "key": "field_front_cta_button_url",
+        "label": "CTA Button URL",
+        "name": "cta_button_url",
+        "type": "url",
+        "default_value": "https://app.mc2plus.in/ext/form/24027/1/apply"
+      },
+      {
+        "key": "field_front_cta_button_target",
+        "label": "CTA Button Target",
+        "name": "cta_button_target",
+        "type": "select",
+        "choices": {
+          "_self": "Same Window",
+          "_blank": "New Window"
+        },
+        "default_value": "_blank",
+        "return_format": "value"
+      },
+      {
+        "key": "field_front_cta_button_rel",
+        "label": "CTA Button Rel",
+        "name": "cta_button_rel",
+        "type": "text",
+        "default_value": "noopener noreferrer"
+      },
+      {
+        "key": "field_front_modal_enabled",
+        "label": "Enable Challenge Modal",
+        "name": "modal_enabled",
+        "type": "true_false",
+        "ui": 1,
+        "default_value": 1
+      },
+      {
+        "key": "field_front_modal_title",
+        "label": "Modal Title",
+        "name": "modal_title",
+        "type": "text",
+        "default_value": "MC²+ Ignite — applications open"
+      },
+      {
+        "key": "field_front_modal_poster_url",
+        "label": "Poster URL",
+        "name": "modal_poster_url",
+        "type": "url",
+        "default_value": "_astro/accelerator-program-poster.BDqSRrjw_Z1pynJ0.webp"
+      },
+      {
+        "key": "field_front_modal_poster_srcset",
+        "label": "Poster Srcset",
+        "name": "modal_poster_srcset",
+        "type": "textarea",
+        "rows": 3,
+        "default_value": "_astro/accelerator-program-poster.BDqSRrjw_1s5EVK.webp 540w, _astro/accelerator-program-poster.BDqSRrjw_1jyX5k.webp 720w, _astro/accelerator-program-poster.BDqSRrjw_Z4I2Of.webp 1080w, _astro/accelerator-program-poster.BDqSRrjw_1cvAfW.webp 1440w"
+      },
+      {
+        "key": "field_front_modal_poster_alt",
+        "label": "Poster Alt Text",
+        "name": "modal_poster_alt",
+        "type": "text",
+        "default_value": "Apply to MC²+ Ignite"
+      },
+      {
+        "key": "field_front_modal_application_url",
+        "label": "Application URL",
+        "name": "modal_application_url",
+        "type": "url",
+        "default_value": "https://app.mc2plus.in/ext/form/24027/1/apply"
+      },
+      {
+        "key": "field_front_modal_accessibility_text",
+        "label": "Accessibility Description",
+        "name": "modal_accessibility_text",
+        "type": "textarea",
+        "rows": 8,
+        "new_lines": "br",
+        "default_value": "MC²+ Ignite — India's flagship energy innovation accelerator. Up to 50 lakh convertible funding plus up to 1.5 crore milestone-based funding for selected start-ups, supporting up to 30 high-potential early-stage start-ups across seven themes: AI-driven subsurface intelligence; next-gen drilling and well completion technologies; refinery process intensification and analysis; digital asset management; bioenergy with a focus on CBG; hydrogen and mobility; and other innovation in the energy sector. From start-up selection to pilot and procurement: mentoring support throughout the innovation journey, a pilot opportunity to test solutions in real operating environments, a pathway to procurement with an oil and gas PSU, and access to PSU, experts and ecosystem partners. Implementation partner: IIT Madras. Incubation partners: IIT Kanpur, Venture Center, C-CAMP and IIMA Ventures. Launching on 5 August 2026 — applications open, last date 31 August 2026."
+      },
+      {
+        "key": "field_front_modal_apply_text",
+        "label": "Modal Apply Button Text",
+        "name": "modal_apply_text",
+        "type": "text",
+        "default_value": "Apply now"
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "page_type",
+          "operator": "==",
+          "value": "front_page"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "active": true,
+    "description": "Dynamic ACF fields for the MC²+ Front Page."
+  }
+]

@@ -1,0 +1,707 @@
+{
+  "key": "group_career_page",
+  "title": "Career Page",
+  "fields": [
+    {
+      "key": "field_career_hero_tab",
+      "label": "Hero Section",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_career_hero_eyebrow",
+      "label": "Eyebrow",
+      "name": "hero_eyebrow",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "Example: CAREER AT MC²+",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "CAREER AT MC²+",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_hero_title_line_1",
+      "label": "Hero Title Line 1",
+      "name": "hero_title_line_1",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Help Build India’s",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_hero_title_line_2",
+      "label": "Hero Title Line 2",
+      "name": "hero_title_line_2",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "This line uses the existing accent CSS class.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Flagship Energy",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_hero_title_line_3",
+      "label": "Hero Title Line 3",
+      "name": "hero_title_line_3",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "innovation platform.",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_hero_description_1",
+      "label": "Hero Description 1",
+      "name": "hero_description_1",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "MC²+ is a Section 8 not-for-profit backed by the Ministry of Petroleum & Natural Gas and seven of India’s largest energy majors. We’re a small, high-ownership team working at the intersection of deep-tech, industrial pilots, and public-sector partnership — turning lab-stage energy IP into ventures that get built in the real world.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_career_hero_description_2",
+      "label": "Hero Description 2",
+      "name": "hero_description_2",
+      "aria-label": "",
+      "type": "wysiwyg",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "If you want your work to move India’s energy transition forward, and you’re comfortable operating in a fast-moving, mission-first organisation, we’d like to hear from you.",
+      "tabs": "visual",
+      "toolbar": "basic",
+      "media_upload": 0,
+      "delay": 0
+    },
+    {
+      "key": "field_career_open_roles_tab",
+      "label": "Open Roles",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_career_open_roles_eyebrow",
+      "label": "Section Eyebrow",
+      "name": "open_roles_eyebrow",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "OPEN ROLES",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_open_roles_title",
+      "label": "Section Title",
+      "name": "open_roles_title",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Current openings",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_open_roles_intro",
+      "label": "Section Intro",
+      "name": "open_roles_intro",
+      "aria-label": "",
+      "type": "textarea",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Click a role to read the full job description and apply.",
+      "maxlength": "",
+      "rows": 3,
+      "new_lines": "br",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_roles",
+      "label": "Career Roles",
+      "name": "career_roles",
+      "aria-label": "",
+      "type": "repeater",
+      "instructions": "Add, remove and reorder career openings.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "layout": "block",
+      "pagination": 0,
+      "min": 0,
+      "max": 0,
+      "collapsed": "field_career_role_title",
+      "button_label": "Add Role",
+      "rows_per_page": 20,
+      "sub_fields": [
+        {
+          "key": "field_career_role_title",
+          "label": "Role Title",
+          "name": "title",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_role_meta",
+          "label": "Role Meta",
+          "name": "meta",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Example: New Delhi · Full-time · Reports to CEO",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "50",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_role_about_title",
+          "label": "About Role Heading",
+          "name": "about_title",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "30",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "About the role",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_role_about_description",
+          "label": "About Role Description",
+          "name": "about_description",
+          "aria-label": "",
+          "type": "wysiwyg",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "70",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "tabs": "visual",
+          "toolbar": "basic",
+          "media_upload": 0,
+          "delay": 0
+        },
+        {
+          "key": "field_career_role_ownership_title",
+          "label": "Responsibilities Heading",
+          "name": "ownership_title",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "What you’ll own",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_role_responsibilities",
+          "label": "Responsibilities",
+          "name": "responsibilities",
+          "aria-label": "",
+          "type": "repeater",
+          "instructions": "Add each responsibility as a separate item.",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "layout": "table",
+          "pagination": 0,
+          "min": 0,
+          "max": 0,
+          "collapsed": "",
+          "button_label": "Add Responsibility",
+          "rows_per_page": 20,
+          "sub_fields": [
+            {
+              "key": "field_career_role_responsibility_text",
+              "label": "Responsibility",
+              "name": "text",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            }
+          ]
+        },
+        {
+          "key": "field_career_role_actions",
+          "label": "Actions",
+          "name": "actions",
+          "aria-label": "",
+          "type": "repeater",
+          "instructions": "Add application links and job description PDFs.",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "",
+            "class": "",
+            "id": ""
+          },
+          "layout": "block",
+          "pagination": 0,
+          "min": 0,
+          "max": 0,
+          "collapsed": "field_career_action_label",
+          "button_label": "Add Action",
+          "rows_per_page": 20,
+          "sub_fields": [
+            {
+              "key": "field_career_action_label",
+              "label": "Button Label",
+              "name": "label",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "",
+              "required": 1,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            },
+            {
+              "key": "field_career_action_type",
+              "label": "Button Type",
+              "name": "type",
+              "aria-label": "",
+              "type": "select",
+              "instructions": "Use filled for the primary Apply button and ghost for PDF/download links.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "choices": {
+                "filled": "filled",
+                "ghost": "ghost"
+              },
+              "default_value": "ghost",
+              "return_format": "value",
+              "multiple": 0,
+              "allow_null": 0,
+              "ui": 1,
+              "ajax": 0,
+              "placeholder": "",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_career_action_url",
+              "label": "URL",
+              "name": "url",
+              "aria-label": "",
+              "type": "url",
+              "instructions": "Use for an external application URL.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            },
+            {
+              "key": "field_career_action_file",
+              "label": "PDF / Document",
+              "name": "file",
+              "aria-label": "",
+              "type": "file",
+              "instructions": "Use this for the Job Description PDF. The uploaded file takes priority over URL.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "return_format": "array",
+              "library": "all",
+              "min_size": "",
+              "max_size": "",
+              "mime_types": "pdf,doc,docx",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_career_action_target",
+              "label": "Target",
+              "name": "target",
+              "aria-label": "",
+              "type": "select",
+              "instructions": "",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+              },
+              "choices": {
+                "_blank": "New Window",
+                "_self": "Same Window"
+              },
+              "default_value": "_blank",
+              "return_format": "value",
+              "multiple": 0,
+              "allow_null": 0,
+              "ui": 1,
+              "ajax": 0,
+              "placeholder": "",
+              "allow_in_bindings": 0
+            },
+            {
+              "key": "field_career_action_aria",
+              "label": "ARIA Label",
+              "name": "aria_label",
+              "aria-label": "",
+              "type": "text",
+              "instructions": "Optional accessibility label.",
+              "required": 0,
+              "conditional_logic": 0,
+              "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+              },
+              "default_value": "",
+              "maxlength": "",
+              "allow_in_bindings": 0,
+              "placeholder": "",
+              "prepend": "",
+              "append": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "field_career_why_work_tab",
+      "label": "Why Work Here",
+      "name": "",
+      "aria-label": "",
+      "type": "tab",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "placement": "top",
+      "endpoint": 0
+    },
+    {
+      "key": "field_career_why_work_title",
+      "label": "Section Title",
+      "name": "why_work_title",
+      "aria-label": "",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "Why Work Here",
+      "maxlength": "",
+      "allow_in_bindings": 0,
+      "placeholder": "",
+      "prepend": "",
+      "append": ""
+    },
+    {
+      "key": "field_career_why_work_steps",
+      "label": "Why Work Here Steps",
+      "name": "why_work_steps",
+      "aria-label": "",
+      "type": "repeater",
+      "instructions": "Keep the CSS class as step--o1, step--o2, step--o3, etc. to preserve the existing design.",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "layout": "block",
+      "pagination": 0,
+      "min": 0,
+      "max": 0,
+      "collapsed": "field_career_why_step_title",
+      "button_label": "Add Step",
+      "rows_per_page": 20,
+      "sub_fields": [
+        {
+          "key": "field_career_why_step_class",
+          "label": "CSS Class",
+          "name": "class",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "Examples: step--o1, step--o2, step--o3",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "30",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_why_step_title",
+          "label": "Step Title",
+          "name": "title",
+          "aria-label": "",
+          "type": "text",
+          "instructions": "",
+          "required": 1,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "35",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        },
+        {
+          "key": "field_career_why_step_body",
+          "label": "Step Description",
+          "name": "body",
+          "aria-label": "",
+          "type": "textarea",
+          "instructions": "",
+          "required": 0,
+          "conditional_logic": 0,
+          "wrapper": {
+            "width": "35",
+            "class": "",
+            "id": ""
+          },
+          "default_value": "",
+          "maxlength": "",
+          "rows": 4,
+          "new_lines": "br",
+          "allow_in_bindings": 0,
+          "placeholder": "",
+          "prepend": "",
+          "append": ""
+        }
+      ]
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "page_template",
+        "operator": "==",
+        "value": "page-career.php"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "position": "normal",
+  "style": "default",
+  "label_placement": "top",
+  "instruction_placement": "label",
+  "hide_on_screen": "",
+  "active": true,
+  "description": "",
+  "show_in_rest": 0
+}
