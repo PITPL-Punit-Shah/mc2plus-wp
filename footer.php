@@ -57,6 +57,122 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="<?php echo esc_url(get_template_directory_uri() . '/assets/js/custom.js'); ?>"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const explorer = document.querySelector('.explorer');
+
+    if (!explorer) {
+        return;
+    }
+
+    const chips = Array.from(explorer.querySelectorAll('.chip'));
+    const rows = Array.from(explorer.querySelectorAll('.row'));
+    const resultsCount = explorer.querySelector('.results-count');
+    const emptyState = explorer.querySelector('.empty-state');
+    const sectorSelect = explorer.querySelector('.sector-select');
+
+    const activeFilters = {
+        backer: 'All',
+        sector: 'All'
+    };
+
+    function updateChipState(filterType, selectedValue) {
+        chips.forEach(function (chip) {
+            if (chip.dataset.filter !== filterType) {
+                return;
+            }
+
+            chip.setAttribute(
+                'aria-pressed',
+                chip.dataset.value === selectedValue ? 'true' : 'false'
+            );
+        });
+    }
+
+    function applyFilters() {
+        let visibleCount = 0;
+
+        rows.forEach(function (row) {
+            const rowBacker = row.dataset.backer || '';
+            const rowSector = row.dataset.sector || '';
+
+            const backerMatches =
+                activeFilters.backer === 'All' ||
+                rowBacker === activeFilters.backer;
+
+            const sectorMatches =
+                activeFilters.sector === 'All' ||
+                rowSector === activeFilters.sector;
+
+            const shouldShow = backerMatches && sectorMatches;
+
+            if (shouldShow) {
+                row.hidden = false;
+                row.style.removeProperty('display');
+                visibleCount++;
+            } else {
+                row.hidden = true;
+                row.style.setProperty('display', 'none', 'important');
+            }
+        });
+
+        if (resultsCount) {
+            resultsCount.textContent =
+                visibleCount === rows.length
+                    ? 'Showing all ' + rows.length + ' ventures'
+                    : 'Showing ' + visibleCount + ' of ' + rows.length + ' ventures';
+        }
+
+        if (emptyState) {
+            emptyState.hidden = visibleCount !== 0;
+        }
+    }
+
+    chips.forEach(function (chip) {
+        chip.addEventListener('click', function (event) {
+            event.preventDefault();
+
+            const filterType = chip.dataset.filter;
+            const filterValue = chip.dataset.value;
+
+            if (!filterType || !filterValue) {
+                return;
+            }
+
+            activeFilters[filterType] = filterValue;
+
+            updateChipState(filterType, filterValue);
+
+            if (filterType === 'sector' && sectorSelect) {
+                sectorSelect.value = filterValue;
+            }
+
+            applyFilters();
+        });
+    });
+
+    if (sectorSelect) {
+        sectorSelect.addEventListener('change', function () {
+            const filterValue = sectorSelect.value || 'All';
+
+            activeFilters.sector = filterValue;
+            updateChipState('sector', filterValue);
+            applyFilters();
+        });
+    }
+
+    // Set the initial active state.
+    updateChipState('backer', activeFilters.backer);
+    updateChipState('sector', activeFilters.sector);
+
+    if (sectorSelect) {
+        sectorSelect.value = activeFilters.sector;
+    }
+
+    // Apply the default filters on page load.
+    applyFilters();
+});
+</script>
   <?php wp_footer(); ?>
 </body>
 </html>
